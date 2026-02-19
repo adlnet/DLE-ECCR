@@ -1,0 +1,73 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: eccr-cds
+spec:
+  revisionHistoryLimit: 1
+  strategy:
+    type: Recreate
+  template:
+    spec:
+      securityContext:
+        fsGroup: 1001
+      terminationGracePeriodSeconds: 15
+      imagePullSecrets:
+        - name: code-il2-pull-creds
+      containers:
+      - name: eccr-cds
+        image: eccr/eccr-cds
+        volumeMounts:
+          - mountPath: "/tmp/shared/"
+            name: cds-storage-mount
+        imagePullPolicy: Always
+        envFrom:
+          - configMapRef:
+              name: app-name
+          - secretRef:
+              name: app-db-credentials
+          - secretRef:
+              name: cds-app-credentials
+          - secretRef:
+              name: postgres-connect-info
+          - configMapRef:
+              name: cluster-prefix
+        command:
+          - "/bin/sh"
+          - "-exc"
+          - |
+            ../start-app.sh
+        env:
+          - name: NAMESPACE
+            valueFrom:
+              fieldRef:
+                fieldPath: metadata.namespace
+          - name: DB_NAME
+            value: $(PG_DATABASE)
+          - name: DB_USER
+            value: $(PG_USER)
+          - name: DB_PASSWORD
+            value: $(APP_DB_ADMIN_PASSWORD)
+          - name: DB_HOST
+            value: $(PGHOST)
+          - name: DB_PORT
+            value: $(PGPORT)
+          - name: SECRET_KEY_VAL
+            value: $(SECRET_KEY)
+      - name: cds-nginx
+        image: nginx/nginx
+        ports: 
+          - containerPort: 8080
+            name: cds-nginx-port
+        volumeMounts:
+          - mountPath: "/usr/share/nginx/html"
+            name: cds-storage-mount
+          - mountPath: /etc/nginx/conf.d/
+            name: nginx-default
+      volumes:
+        - name: cds-storage-mount
+          persistentVolumeClaim:
+            claimName: cds-storage-claim
+        - name: nginx-default
+          configMap:
+            name: cds-nginx-default-config
+

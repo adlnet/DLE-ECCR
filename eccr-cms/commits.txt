@@ -1,0 +1,28 @@
+4d876b2 | Simeranjeet Sandhu | 2026-01-14 | Merge branch 'cypress' into 'master'
+9e92916 | Simeranjeet Sandhu | 2026-01-14 | Adding tzdata package
+035a2dd | Simeranjeet Sandhu | 2026-01-14 | Merge branch 'cypress' into 'master'
+eab31fe | Simeranjeet Sandhu | 2026-01-14 | Updating baseUrl for Cypress
+a67a959 | Simeranjeet Sandhu | 2026-01-13 | Merge branch 'mdo/test' into 'master'
+679d44a | Jon Smith | 2026-01-09 | P1MDOHD-29843: update to latest base image
+c57af5d | Simeranjeet Sandhu | 2025-12-23 | Uncommented CSP in settings.py
+fadce87 | Simeranjeet Sandhu | 2025-12-23 | Enabling JWT
+5e821f7 | Simeranjeet Sandhu | 2025-12-19 | Merge branch 'csp' into 'master'
+4c7db62 | Simeranjeet Sandhu | 2025-12-19 | Updating CSP value
+471304d | Simeranjeet Sandhu | 2025-12-10 | Merge branch 'ci-fixes' into 'master'
+d9bfc96 | Simeranjeet Sandhu | 2025-12-10 | Merge branch 'ci-fixes' of https://code.il2.dso.mil/adl-ousd/eccr/eccr-cms into ci-fixes
+682b0bf | Simeranjeet Sandhu | 2025-12-09 | Upgrading requests
+cf2f153 | Simeranjeet Sandhu | 2025-12-04 | Upgrading django
+74487ec | Simeranjeet Sandhu | 2025-12-03 | Changing DB to Postgres
+0a6b58a | Simeranjeet Sandhu | 2025-12-09 | Upgrading requests
+4d5f02e | Simeranjeet Sandhu | 2025-12-04 | Upgrading django
+27dd23d | Simeranjeet Sandhu | 2025-12-03 | Changing DB to Postgres
+3bb0587 | Simeranjeet Sandhu | 2025-11-25 | Merge branch 'ci-fixes' into 'master'
+df4f023 | Simeranjeet Sandhu | 2025-11-25 | Ci fixes
+5aa072b | Simeranjeet Sandhu | 2025-11-25 | Removing commented out code in test_views_unit.py
+c5cb04a | Simeranjeet Sandhu | 2025-11-25 | Upgraded mysql-connector-python/coverage
+094f171 | Simeranjeet Sandhu | 2025-11-05 | Upgrading Dockerfile to python313 image/updated startup scripts
+ffccd6a | James Tobin | 2025-10-07 | Merge branch 'xms-repl' into 'master'
+8abc664 | JDTobin | 2025-10-07 | additional files
+8b8d33e | JDTobin | 2025-10-07 | replicate xms as baseline
+9852707 | Florian Tolk | 2025-07-03 | Added Apache2 License
+d64cbd4 | Florian Tolk | 2025-05-20 | Initial commit

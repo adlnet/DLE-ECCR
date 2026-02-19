@@ -1,0 +1,29 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: eccr-cis
+spec:
+  revisionHistoryLimit: 1
+  template:
+    spec:
+      terminationGracePeriodSeconds: 15
+      imagePullSecrets:
+        - name: code-il2-pull-creds
+      containers:
+        - name: eccr-cis
+          image: eccr/eccr-cis
+          imagePullPolicy: Always
+          envFrom:
+            - configMapRef:
+                name: app-name
+            - secretRef:
+                name: app-db-credentials
+            - secretRef:
+                name: postgres-connect-info
+            - configMapRef:
+                name: cluster-prefix
+          env:
+            - name: NAMESPACE
+              valueFrom:
+                fieldRef:
+                  fieldPath: metadata.namespace

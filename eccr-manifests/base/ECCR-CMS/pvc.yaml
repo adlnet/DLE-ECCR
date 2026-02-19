@@ -1,0 +1,12 @@
+kind: PersistentVolumeClaim
+apiVersion: v1
+metadata:
+   labels:
+      app: eccr-cms
+   name: cms-storage-claim
+spec:
+   accessModes:
+      - "ReadWriteOnce"
+   resources:
+      requests:
+         storage: "1Gi"

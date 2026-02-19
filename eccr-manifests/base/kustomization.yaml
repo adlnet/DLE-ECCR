@@ -1,0 +1,13 @@
+apiVersion: kustomize.config.k8s.io/v1beta1
+kind: Kustomization
+
+commonLabels:
+  authentication: istio-auth
+
+resources:
+  - ECCR-CDS
+  - ECCR-CIS
+  - ECCR-CMS
+  - ECCR-CMS-UI
+  - ECCR-CDS-UI
+  - neo4j

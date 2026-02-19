@@ -1,0 +1,25 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: eccr-cds-ui
+spec:
+  revisionHistoryLimit: 1
+  strategy:
+    type: Recreate
+  template:
+    spec:
+      terminationGracePeriodSeconds: 15
+      imagePullSecrets:
+        - name: code-il2-pull-creds
+      containers:
+        - name: eccr-cds-ui
+          image: eccr/eccr-cds-ui
+          imagePullPolicy: Always
+          envFrom:
+            - configMapRef:
+                name: cluster-prefix
+          env:
+            - name: NAMESPACE
+              valueFrom:
+                fieldRef:
+                  fieldPath: metadata.namespace

@@ -1,0 +1,1659 @@
+7684115 | Simeranjeet Sandhu | 2026-01-14 | Merge branch 'cypress' into 'master'
+1edb26b | Simeranjeet Sandhu | 2026-01-14 | Updated env vars for backend connection
+81abce4 | Simeranjeet Sandhu | 2026-01-14 | enabling followRedirect
+a5a5635 | Simeranjeet Sandhu | 2026-01-14 | Merge branch 'cypress' into 'master'
+0087927 | Simeranjeet Sandhu | 2026-01-14 | Updating baseUrl for Cypress Tests
+9477390 | Simeranjeet Sandhu | 2026-01-13 | Merge branch 'pipeline-ci' into 'master'
+7e7a73c | Simeranjeet Sandhu | 2026-01-08 | Removed qs 6.5.3 from package.json
+21156ee | Simeranjeet Sandhu | 2026-01-08 | Upgraded next/cypress
+1f60e02 | Simeranjeet Sandhu | 2025-12-08 | Merge branch 'argo-fixes' into 'master'
+17d59cd | Simeranjeet Sandhu | 2025-12-08 | Upgraded jsonwebtoken to 9.0.3
+76eceda | Simeranjeet Sandhu | 2025-12-08 | Updated basePath/CSP poliicy
+aae5bb0 | Simeranjeet Sandhu | 2025-12-03 | Merge branch 'eccr-cms-ui-ci-fixes' into 'master'
+341afef | Simeranjeet Sandhu | 2025-12-03 | Merge branch 'eccr-cms-ui-ci-fixes' of https://code.il2.dso.mil/adl-ousd/eccr/eccr-cms-ui into eccr-cms-ui-ci-fixes
+d151624 | Eric Chang | 2025-11-26 | Update lint
+a6fbf59 | Eric Chang | 2025-11-26 | Update jest.config and unit tests
+40c83a7 | Eric Chang | 2025-11-26 | Update unit tests
+0309b1e | Simeranjeet Sandhu | 2025-12-03 | Upgraded next/node-forge
+5dec266 | Simeranjeet Sandhu | 2025-11-18 | Lint: Removed deprecated rule
+b0a4b43 | Simeranjeet Sandhu | 2025-11-17 | Upgrading eslint/eslint-next-config
+8c38713 | Simeranjeet Sandhu | 2025-10-29 | Packages updated/removed for Anchore/Twistlock
+a27ee1f | Simeranjeet Sandhu | 2025-10-29 | Anchore-Twistlock: Upgraded next/@babel/runtime/form-data
+21ab225 | Simeranjeet Sandhu | 2025-12-03 | Merge branch 'ci-check-' into 'eccr-cms-ui-ci-fixes'
+f1b116c | Simeranjeet Sandhu | 2025-12-03 | Upgraded next/node-forge
+133a8c9 | Eric Chang | 2025-11-26 | Update lint
+8bce79b | Eric Chang | 2025-11-26 | Update jest.config and unit tests
+92a1b58 | Eric Chang | 2025-11-26 | Update unit tests
+c312006 | Simeranjeet Sandhu | 2025-11-18 | Lint: Removed deprecated rule
+49a7fee | Simeranjeet Sandhu | 2025-11-17 | Upgrading eslint/eslint-next-config
+08111d9 | Simeranjeet Sandhu | 2025-11-06 | Merge branch 'ci-fixes' into 'master'
+e069975 | Simeranjeet Sandhu | 2025-11-06 | Upgrading next to 15.5.6
+f1c2c34 | Simeranjeet Sandhu | 2025-11-06 | Upgrading to next 15.5.6
+5ff6e49 | Simeranjeet Sandhu | 2025-10-29 | Packages updated/removed for Anchore/Twistlock
+1e8d0f7 | Simeranjeet Sandhu | 2025-10-29 | Anchore-Twistlock: Upgraded next/@babel/runtime/form-data
+2a12204 | Simeranjeet Sandhu | 2025-05-13 | Cypress: Fixing SSI injection test
+2d910f9 | Simeranjeet Sandhu | 2025-05-13 | Cypress: updated config base URL
+9cb7489 | Simeranjeet Sandhu | 2025-04-15 | Dockerfile: Changed ecc-openlxp-xms-ui to xms-ui
+14eadcb | Simeranjeet Sandhu | 2025-04-11 | Updated NEXT_PUBLIC_XMS_BACKEND to /xms/
+209b95c | Simeranjeet Sandhu | 2025-04-11 | Edit .env
+8f5f4fc | Simeranjeet Sandhu | 2025-04-11 | Updated NEXT_PUBLIC_XMS_BACKEND
+1f9cc7a | Simeranjeet Sandhu | 2025-04-11 | Added back trailingSlash: true,
+aebcf2d | Simeranjeet Sandhu | 2025-04-11 | Removing trailing slash
+342f402 | Simeranjeet Sandhu | 2025-04-11 | Added trailingSlash: true,
+7ae38b1 | Simeranjeet Sandhu | 2025-04-11 | Merge branch 'ci-fixes' into 'master'
+f790ab6 | Simeranjeet Sandhu | 2025-04-11 | Updating tough-cookie
+ce59779 | Simeranjeet Sandhu | 2025-04-11 | Updating deps
+7b00e84 | Simeranjeet Sandhu | 2025-04-11 | Updating deps
+084eeb3 | Simeranjeet Sandhu | 2025-04-11 | Updating deps
+17dda59 | Simeranjeet Sandhu | 2025-04-11 | Updated deps
+1cb014e | Simeranjeet Sandhu | 2025-04-10 | regenerated lockfile
+52575b3 | Simeranjeet Sandhu | 2025-04-10 | Updated axios/@babel/next
+ac9363e | Simeranjeet Sandhu | 2025-04-10 | Changing basePath to /xms-ui
+9b0e3d3 | Simeranjeet Sandhu | 2025-02-07 | Merge branch 'ci-fixes' into 'master'
+8f6b539 | Simeranjeet Sandhu | 2025-02-07 | Removing console error logging in pages/login.js
+4849b1f | Simeranjeet Sandhu | 2025-02-06 | Fixed Cypress tests
+53bf216 | Simeranjeet Sandhu | 2025-02-06 | Modified cyoress e2e.js
+75f9d63 | Simeranjeet Sandhu | 2025-02-06 | Updated cypress session test
+19035a8 | Simeranjeet Sandhu | 2025-02-06 | Merge branch 'ci-fixes' into 'master'
+5131166 | Simeranjeet Sandhu | 2025-02-05 | Upgraded tough-cookie
+44530f1 | Simeranjeet Sandhu | 2025-02-05 | Upgraded next to 14.2.21
+221ac02 | Simeranjeet Sandhu | 2025-02-05 | Regenerated lockfile
+5ba0675 | Simeranjeet Sandhu | 2025-02-05 | Upgraded next to 14.2.18
+c1ef0f6 | JDTobin | 2025-01-02 | fix env var routing
+9966be3 | JDTobin | 2025-01-02 | fix img pathing
+a49f516 | JDTobin | 2025-01-02 | fix imports
+efee8d9 | Simeranjeet Sandhu | 2025-01-02 | SQ: useMemo hook code smell
+a9bfe18 | JDTobin | 2025-01-02 | fix logged in check call
+eae8cac | JDTobin | 2025-01-02 | fix mocks
+6b3528d | JDTobin | 2025-01-02 | update xsrf config
+97ae6c3 | Simeranjeet Sandhu | 2024-12-24 | Twistlock: Upgraded tough-cookie
+796a042 | Simeranjeet Sandhu | 2024-12-24 | Fixing deps/twistlock
+0a3bc89 | JDTobin | 2024-12-24 | fix lint
+0ac912c | JDTobin | 2024-12-24 | update tests
+8a2ec7a | JDTobin | 2024-12-24 | updates on course-info-mappings
+ac5274d | Simeranjeet Sandhu | 2024-12-24 | Regenerated lockfile
+5c635bc | Simeranjeet Sandhu | 2024-12-24 | Regenerated lock file/fixing deps
+0140f27 | Simeranjeet Sandhu | 2024-12-24 | Adding back basePath
+757b571 | Simeranjeet Sandhu | 2024-12-24 | Commented out basePath
+a5b6c22 | Simeranjeet Sandhu | 2024-12-24 | Dockerfile: Debugging catalog image issue with sed
+821646c | Simeranjeet Sandhu | 2024-12-24 | Reverting Dockerfile
+3302865 | Simeranjeet Sandhu | 2024-12-24 | Commenting out sed command
+5359e75 | Simeranjeet Sandhu | 2024-12-23 | Updating image src to imagePath in header.js
+39ae8b7 | Simeranjeet Sandhu | 2024-12-23 | Updating body-parser
+bcdc087 | Simeranjeet Sandhu | 2024-12-23 | Fixing Deps
+a0f9437 | Simeranjeet Sandhu | 2024-12-23 | Fixing Unit Tests
+fb5e96f | Simeranjeet Sandhu | 2024-12-23 | Fixing Unit Tests/regenerated lockfile
+f9faffd | Simeranjeet Sandhu | 2024-12-23 | Upgraded path-to-regexp to 0.1.12
+8ec3405 | Simeranjeet Sandhu | 2024-12-23 | Fixing path-to-regexp version in lockfile
+bcb91fe | Simeranjeet Sandhu | 2024-12-23 | Fixed path-to-regexp version in lockfile
+e362d5d | Simeranjeet Sandhu | 2024-12-23 | Fixed Deps/twistlock
+a4e2914 | Simeranjeet Sandhu | 2024-12-23 | Fixing Lint
+d786d91 | Simeranjeet Sandhu | 2024-12-23 | Dockerfile: Fixing error in base image
+0139f04 | Simeranjeet Sandhu | 2024-12-23 | Dockerfile: nodejs image upgraded to 18.20
+61a0096 | Simeranjeet Sandhu | 2024-12-23 | Upgraded nodejs to 18.20
+25ef5b7 | Simeranjeet Sandhu | 2024-12-23 | Reverting back to nodejs 18.20
+2868b76 | Simeranjeet Sandhu | 2024-12-20 | Fixing lint
+dfd512f | Simeranjeet Sandhu | 2024-12-20 | Upgrading next to 14.2.15
+9914973 | Simeranjeet Sandhu | 2024-12-20 | Reordering useStorage.js
+fc8e80d | Simeranjeet Sandhu | 2024-12-20 | Fixing SQ code smell
+49d5473 | Simeranjeet Sandhu | 2024-12-20 | Regenerated lockfile
+135170a | Simeranjeet Sandhu | 2024-12-20 | Reverting back to commit e6e20ec9d9767006a16cc3d33f4d8808cbdc8ebd
+0c73711 | Simeranjeet Sandhu | 2024-12-20 | Testing root.unmount on footer.test.js
+1f7ffe1 | Simeranjeet Sandhu | 2024-12-20 | Fixing Unit Tests
+c3ec95a | Simeranjeet Sandhu | 2024-12-20 | Fixing dep checks
+f564808 | Simeranjeet Sandhu | 2024-12-20 | Fixing lint
+e2e823e | Simeranjeet Sandhu | 2024-11-12 | Fixing Lint
+354adc3 | Simeranjeet Sandhu | 2024-11-12 | Upgraded jest & jest dependencies/Unit tests fixed
+877ff38 | Simeranjeet Sandhu | 2024-10-21 | Upgrading react to 18.x+
+49ed7ca | Simeranjeet Sandhu | 2024-10-21 | Updated react
+5abae21 | Simeranjeet Sandhu | 2024-10-18 | Updating nodejs base image to 18.20
+ce3a031 | Simeranjeet Sandhu | 2024-10-18 | Upgraded to next@14.2.10
+e6e20ec | Simeranjeet Sandhu | 2024-10-10 | Updating csp headers
+bd8cf16 | Simeranjeet Sandhu | 2024-10-10 | adding trailing / in .env
+c2125d8 | Simeranjeet Sandhu | 2024-10-10 | updating NEXT_PUBLIC_BACKEND_HOST
+1b27a76 | Simeranjeet Sandhu | 2024-09-24 | Updated README
+52f1d9c | Simeranjeet Sandhu | 2024-09-24 | Updated README
+bf8bb81 | Simeranjeet Sandhu | 2024-09-17 | Reverting env vars for IL2
+9afadc5 | Simeranjeet Sandhu | 2024-09-17 | Updating env for IL4
+5903e15 | Simeranjeet Sandhu | 2024-09-17 | SQ Deps: ws/qs/body-parser/send
+ef794b0 | Simeranjeet Sandhu | 2024-09-17 | SQ Deps: lodash/jwt/express - fixed syntax error
+b2192b1 | Simeranjeet Sandhu | 2024-09-17 | SQ Deps: lodash/jwt/express/
+b6ce476 | Simeranjeet Sandhu | 2024-09-17 | SQ deps: path-to-regexp 1.9.0
+6c8cd88 | Simeranjeet Sandhu | 2024-09-17 | SQ Deps: path-to-regexp 1.9.0
+c6e4646 | Simeranjeet Sandhu | 2024-09-17 | SQ deps: path-to-regexp 8.0.0
+cad7a01 | Simeranjeet Sandhu | 2024-09-17 | SQ Deps: path-to-regexp 8.0.0
+b1fcfe2 | Simeranjeet Sandhu | 2024-09-17 | SQ deps: body-parser/express/send/serve-static
+7297762 | Simeranjeet Sandhu | 2024-09-04 | Adding il4 to csp headers/trailing slash added in Dockerfile
+c56e70f | Simeranjeet Sandhu | 2024-08-29 | Cypress: Fixed path in test
+8d0222a | Simeranjeet Sandhu | 2024-08-29 | Fixing access restricted cypress test
+5135ab5 | Simeranjeet Sandhu | 2024-08-29 | Yarn.lock - fixing tough-cookie syntax
+9c12b3a | Simeranjeet Sandhu | 2024-08-29 | SQ deps: jwt/qs/ws/ajv/moment/tough-cookie
+b4dd99f | Simeranjeet Sandhu | 2024-08-28 | SQ: lodash - fixed yarn
+a6ae3d0 | Simeranjeet Sandhu | 2024-08-28 | SQ: lodash
+d1b2e7e | Simeranjeet Sandhu | 2024-08-28 | regenerated lock file
+13dd9ba | Simeranjeet Sandhu | 2024-08-28 | Fixing error in yarn.lock
+3a86514 | Simeranjeet Sandhu | 2024-08-28 | Dep Upgrades: Tough-cookie/lodash/ws/qs/moment/jwt/ajv
+5f18da6 | Simeranjeet Sandhu | 2024-08-28 | Regenerated lockfile
+27f71fb | Simeranjeet Sandhu | 2024-08-28 | Upgraded micromatch to 4.0.8
+601fae3 | Simeranjeet Sandhu | 2024-08-27 | SQ Dep: Micromatch 4.0.8
+d3be2df | Simeranjeet Sandhu | 2024-08-14 | Upgraded previous SQ deps after axios
+630ab3f | Simeranjeet Sandhu | 2024-08-14 | Upgraded Axios to 1.7.4/Regenerated yarn.lock
+547fa57 | Simeranjeet Sandhu | 2024-08-07 | Twistlock: tough-cookie
+85249c4 | Simeranjeet Sandhu | 2024-08-07 | SQ Deps
+f25a6d8 | Simeranjeet Sandhu | 2024-08-07 | Removed sharp
+f517246 | Simeranjeet Sandhu | 2024-08-07 | Regenerated Lockfile with sharp
+761a6f6 | Simeranjeet Sandhu | 2024-08-07 | Added sharp package
+1664943 | Simeranjeet Sandhu | 2024-08-06 | Updated csp headers
+b208055 | Simeranjeet Sandhu | 2024-08-06 | testing imagePath
+7f97a23 | Simeranjeet Sandhu | 2024-08-06 | Adding back sed command for .js files
+678ecfe | Simeranjeet Sandhu | 2024-07-31 | Debugging image issue - Dockerfile
+902cb86 | Simeranjeet Sandhu | 2024-07-31 | Debugging continued
+440bba1 | Simeranjeet Sandhu | 2024-07-31 | Debugging image issue: Dockerfile
+0af7658 | Simeranjeet Sandhu | 2024-07-31 | Testing Dockerfile with multi-build
+e2bcea3 | Simeranjeet Sandhu | 2024-07-31 | Adding permissions to /app/public
+fb0d728 | Simeranjeet Sandhu | 2024-07-31 | Dockerfile: added /.next/cache/images with permissions
+8564f47 | Simeranjeet Sandhu | 2024-07-31 | reverting to logoImage
+c2592d8 | Simeranjeet Sandhu | 2024-07-31 | Debugging image issue
+771e539 | Simeranjeet Sandhu | 2024-07-31 | Modified Dockerfile
+3bae5ea | Simeranjeet Sandhu | 2024-07-31 | Updated logo image path in header.js
+08a09bd | Simeranjeet Sandhu | 2024-07-31 | Debugging image issue: SQ removing commented code
+f3a3ed2 | Simeranjeet Sandhu | 2024-07-31 | Debugging image issue - Fixed lint in header.js
+8ae52b6 | Simeranjeet Sandhu | 2024-07-31 | header.js - updated image path
+f826e58 | Simeranjeet Sandhu | 2024-07-31 | Debugging Image issue: Reverting imagePath in Header.js
+f78b30d | Simeranjeet Sandhu | 2024-07-31 | Debugging image issue
+22c9891 | Simeranjeet Sandhu | 2024-07-30 | Reverted Dockerfile
+6e03837 | Simeranjeet Sandhu | 2024-07-29 | Fixing build image error
+e671c03 | Simeranjeet Sandhu | 2024-07-29 | Adding back csp headers/removing private keys in image
+c626572 | Simeranjeet Sandhu | 2024-07-29 | Debugging continued
+fc5e21c | Simeranjeet Sandhu | 2024-07-29 | Adding ls -al to debug
+045659c | Simeranjeet Sandhu | 2024-07-29 | Logo debugging - modified Dockerfile
+af1b5fe | Simeranjeet Sandhu | 2024-07-29 | Logo loading error - removing / in imagePath - REVERTED
+8b3238d | Simeranjeet Sandhu | 2024-07-29 | Logo loading error - removing / in imagePath
+adff287 | Simeranjeet Sandhu | 2024-07-29 | Debugging logo issue - removing csp
+f6970c2 | Simeranjeet Sandhu | 2024-07-26 | Updated dod logo path
+0afab5a | Simeranjeet Sandhu | 2024-07-26 | image rendering Issue
+a2890f9 | Simeranjeet Sandhu | 2024-07-26 | Updated csp header/cypress path
+6e31d09 | Simeranjeet Sandhu | 2024-07-26 | Added homepage to package.json
+7660f75 | Simeranjeet Sandhu | 2024-07-26 | Removing / in basePath
+3f13c89 | Simeranjeet Sandhu | 2024-07-26 | Reverted basePath
+663cd0d | Simeranjeet Sandhu | 2024-07-26 | Twistlock: tough-cookie
+3e05356 | Simeranjeet Sandhu | 2024-07-26 | Dep check: ajv/express
+ecb08fb | Simeranjeet Sandhu | 2024-07-26 | Dep check: moment/qs/ws
+bb9ce05 | Simeranjeet Sandhu | 2024-07-26 | Dep check: JWT/Lodash
+5a3da08 | Simeranjeet Sandhu | 2024-07-26 | regenerated lockfile
+620a93b | Simeranjeet Sandhu | 2024-07-26 | Added next-secure-headers package
+26fd686 | Simeranjeet Sandhu | 2024-07-25 | csp headers - continued
+9a9969a | Simeranjeet Sandhu | 2024-07-25 | Updating csp headers
+dd7d652 | Simeranjeet Sandhu | 2024-07-25 | basePath updated to empty string
+425d37a | Simeranjeet Sandhu | 2024-07-25 | Updating base path
+1662a76 | ssandhu | 2024-06-24 | Twistlock: jsdom
+54a083e | ssandhu | 2024-06-24 | Twistlock: tough-cookie
+f5b7eae | ssandhu | 2024-06-24 | Twistlock: tough-cookie
+168d457 | ssandhu | 2024-06-24 | Fixed syntax error in yarn.lock
+d4697d2 | ssandhu | 2024-06-24 | Dep check: moment/jsonwebtoken/express
+e40364f | ssandhu | 2024-06-24 | Dep check: lodash to 4.17.21
+a9c2b68 | ssandhu | 2024-06-24 | Dep check: ajv to 6.12.3
+ac4bff1 | ssandhu | 2024-06-24 | Dep check: qs to 6.5.3
+d6e11fa | ssandhu | 2024-06-24 | Dep Check: ws to 6.2.3
+084603f | ssandhu | 2024-06-24 | regenerated lockfile
+2c95de2 | ssandhu | 2024-06-24 | Dep checks: upgraded ws > 6.2.3
+450888a | ssandhu | 2024-06-20 | dep check: ajv/moment/jsonwebtoken
+ce33e47 | ssandhu | 2024-06-20 | Fixed lodash error in yarn
+a0db248 | ssandhu | 2024-06-20 | dep check: lodash
+7e466d0 | ssandhu | 2024-06-20 | Regenerated lockfile
+0821915 | ssandhu | 2024-06-20 | upgraded braces package to 3.0.3
+03f7986 | Simeranjeet Sandhu | 2024-04-08 | Merge branch 'depedencies' into 'master'
+0832943 | Simeranjeet Sandhu | 2024-04-08 | jsdom
+34a7d97 | James Tobin | 2024-04-08 | updates due to pathing changes
+d0b3647 | Simeranjeet Sandhu | 2024-04-02 | Merge branch 'dep-checks' into 'master'
+732127a | Simeranjeet Sandhu | 2024-04-02 | Depchecks: express
+47c8e67 | Simeranjeet Sandhu | 2024-04-02 | Merge branch 'dep-checks' into 'master'
+aaed889 | Simeranjeet Sandhu | 2024-04-02 | Fixed syntax error in yarn.lock
+6fce838 | Simeranjeet Sandhu | 2024-04-02 | Merge branch 'dep-checks' into 'master'
+644bc88 | Simeranjeet Sandhu | 2024-04-02 | Depchecks: ajv/jsonwebtoken/ws
+9c92139 | Simeranjeet Sandhu | 2024-04-02 | Merge branch 'dep-checks' into 'master'
+565dfd9 | Simeranjeet Sandhu | 2024-04-02 | Depchecks-lodash/moment/qs
+abcbeea | Simeranjeet Sandhu | 2024-04-02 | Merge branch 'dep-checks' into 'master'
+ecad080 | Simeranjeet Sandhu | 2024-04-02 | Regenerated Lockfile
+5d34d3a | Simeranjeet Sandhu | 2024-04-01 | Regenerated Lockfile
+1543c64 | Simeranjeet Sandhu | 2024-04-01 | Twistlock - tough-cookie
+a7dba40 | Simeranjeet Sandhu | 2024-04-01 | Merge branch 'dep-checks' into 'master'
+581d006 | Simeranjeet Sandhu | 2024-04-01 | Twistlock - tough-cookie/jsdom
+4cb0805 | Simeranjeet Sandhu | 2024-04-01 | Merge branch 'dep-checks' into 'master'
+e22d158 | Simeranjeet Sandhu | 2024-04-01 | Regenerated lockfile
+b9d6b91 | Simeranjeet Sandhu | 2024-03-29 | Merge branch 'dep-checks' into 'master'
+d2ca0b3 | Simeranjeet Sandhu | 2024-03-29 | Twistlock: tough-cookie/jsdom
+dbe70df | Simeranjeet Sandhu | 2024-03-29 | Merge branch 'dep-checks' into 'master'
+f352812 | Simeranjeet Sandhu | 2024-03-29 | Fixed syntax error in yarn
+cb56dd2 | Simeranjeet Sandhu | 2024-03-29 | Merge branch 'dep-checks' into 'master'
+e1aaa46 | Simeranjeet Sandhu | 2024-03-29 | dep-checks
+83a81ef | Simeranjeet Sandhu | 2024-03-29 | Merge branch 'dep-checks' into 'master'
+0264a86 | Simeranjeet Sandhu | 2024-03-29 | dep-check: lodash
+5f7613a | Simeranjeet Sandhu | 2024-03-29 | Merge branch 'dep-checks' into 'master'
+2c2d633 | Simeranjeet Sandhu | 2024-03-29 | Upgraded express to 4.19.2
+b4970ae | Simeranjeet Sandhu | 2024-03-29 | Merge branch 'dep-checks' into 'master'
+68ab4cc | Simeranjeet Sandhu | 2024-03-29 | regenerated lockfile
+09e9440 | Simeranjeet Sandhu | 2024-03-29 | Merge branch 'dep-checks' into 'master'
+d16f6b0 | Simeranjeet Sandhu | 2024-03-29 | regenerated lockfile
+13569dd | Simeranjeet Sandhu | 2024-03-29 | Merge branch 'dep-checks' into 'master'
+5a46b15 | Simeranjeet Sandhu | 2024-03-29 | upgraded express to 4.19.2
+cf97158 | Simeranjeet Sandhu | 2024-03-29 | Merge branch 'dep-checks' into 'master'
+131a5f5 | Simeranjeet Sandhu | 2024-03-29 | upgraded express to 4.19.2
+0ba9a78 | Simeranjeet Sandhu | 2024-02-22 | Merge branch 'pipeline-refinement' into 'master'
+f10da38 | Simeranjeet Sandhu | 2024-02-22 | e2e tests: removed password input in input validation test
+ce9bd5d | Simeranjeet Sandhu | 2024-02-22 | Merge branch 'pipeline-refinement' into 'master'
+695ba2a | Simeranjeet Sandhu | 2024-02-22 | e2e tests: removed metatags test/input validation fixed
+5f24c33 | Simeranjeet Sandhu | 2024-02-22 | Merge branch 'pipeline-refinement' into 'master'
+646d542 | Simeranjeet Sandhu | 2024-02-22 | e2e tests: adding password input/added back in other tests
+e1685cd | Simeranjeet Sandhu | 2024-02-22 | Merge branch 'pipeline-refinement' into 'master'
+b3ce0be | Simeranjeet Sandhu | 2024-02-22 | e2e tests: troubleshooting input validation
+496926f | Simeranjeet Sandhu | 2024-02-22 | Merge branch 'pipeline-refinement' into 'master'
+b76a2e9 | Simeranjeet Sandhu | 2024-02-22 | e2e tests: troubleshooting input validation
+317a82f | Simeranjeet Sandhu | 2024-02-22 | Merge branch 'pipeline-refinement' into 'master'
+d203670 | Simeranjeet Sandhu | 2024-02-22 | e2e tests: troubleshooting input validation
+573881f | Simeranjeet Sandhu | 2024-02-22 | Merge branch 'pipeline-refinement' into 'master'
+9a3904d | Simeranjeet Sandhu | 2024-02-22 | cypress e2e: troubleshooting input validation
+7284eac | Simeranjeet Sandhu | 2024-02-22 | Merge branch 'pipeline-refinement' into 'master'
+bcafed1 | Simeranjeet Sandhu | 2024-02-22 | cypress e2e: troubleshooting input validation
+4568663 | Simeranjeet Sandhu | 2024-02-22 | Merge branch 'pipeline-refinement' into 'master'
+2dcd6b6 | Simeranjeet Sandhu | 2024-02-22 | cypress e2e: troubleshooting input validation
+11f42fa | Simeranjeet Sandhu | 2024-02-22 | Merge branch 'pipeline-refinement' into 'master'
+b224f57 | Simeranjeet Sandhu | 2024-02-22 | cypress e2e: troubleshooting input validation
+8e21dbf | Simeranjeet Sandhu | 2024-02-22 | Merge branch 'pipeline-refinement' into 'master'
+85e415f | Simeranjeet Sandhu | 2024-02-22 | cypress e2e: Removed metatag test/troubleshooting input validation
+1390ef7 | Simeranjeet Sandhu | 2024-02-22 | Merge branch 'pipeline-refinement' into 'master'
+7128d06 | Simeranjeet Sandhu | 2024-02-22 | cypress e2e: adding in cy.visit to input validation test
+1400db6 | Simeranjeet Sandhu | 2024-02-22 | Merge branch 'pipeline-refinement' into 'master'
+fc8d953 | Simeranjeet Sandhu | 2024-02-22 | cypress e2e: added back in cypress tests
+ec476de | Simeranjeet Sandhu | 2024-02-22 | Merge branch 'pipeline-refinement' into 'master'
+42e9ce0 | Simeranjeet Sandhu | 2024-02-22 | cypress e2e: troubleshooting e2e cypress test
+bf96d67 | Simeranjeet Sandhu | 2024-02-22 | Merge branch 'pipeline-refinement' into 'master'
+1ac0f63 | Simeranjeet Sandhu | 2024-02-22 | cypress e2e: added full path to cy.visit
+0648613 | Simeranjeet Sandhu | 2024-02-21 | Merge branch 'pipeline-refinement' into 'master'
+4cad45f | Simeranjeet Sandhu | 2024-02-21 | SSI injection cypress test
+0f9d76e | Simeranjeet Sandhu | 2024-02-21 | Merge branch 'pipeline-refinement' into 'master'
+cacb5e6 | Simeranjeet Sandhu | 2024-02-21 | Fixing restricted pages cypress test
+55e4629 | Simeranjeet Sandhu | 2024-02-21 | Merge branch 'pipeline-refinement' into 'master'
+6db9b31 | Simeranjeet Sandhu | 2024-02-21 | Adding cypress e2e tests
+0a5f6fb | Simeranjeet Sandhu | 2024-02-21 | Merge branch 'pipeline-refinement' into 'master'
+84a81f3 | Simeranjeet Sandhu | 2024-02-21 | Updated env from REACT to NEXT_PUBLIC
+f7b8d0b | Simeranjeet Sandhu | 2024-02-20 | Merge branch 'pipeline-refinement' into 'master'
+d8f13b5 | Simeranjeet Sandhu | 2024-02-19 | Fixed Lint
+3a07d11 | Simeranjeet Sandhu | 2024-02-19 | SQ: Do not use Array index in Keys - support.js
+c74e5dc | Simeranjeet Sandhu | 2024-02-20 | Merge branch 'pipeline-refinement' into 'master'
+e25a671 | Simeranjeet Sandhu | 2024-02-19 | SQ: Do not use Array index in Keys/Remove commented code - register/support.js
+32e4652 | Simeranjeet Sandhu | 2024-02-20 | Merge branch 'pipeline-refinement' into 'master'
+0569b2a | Simeranjeet Sandhu | 2024-02-19 | Unit Tests: import for Support/Login/Register.test.js changed to lowercase
+1416806 | Simeranjeet Sandhu | 2024-02-20 | Merge branch 'pipeline-refinement' into 'master'
+c9f9f15 | Simeranjeet Sandhu | 2024-02-19 | Fixed Lint
+dc8cba1 | Simeranjeet Sandhu | 2024-02-20 | Merge branch 'pipeline-refinement' into 'master'
+103b95d | Simeranjeet Sandhu | 2024-02-19 | Adding support/register/login.js
+b1ea1d5 | Simeranjeet Sandhu | 2024-02-20 | Merge branch 'pipeline-refinement' into 'master'
+7f5b681 | Simeranjeet Sandhu | 2024-02-19 | Removing Support/Register/Login.js due to error in name
+7fe56a4 | Simeranjeet Sandhu | 2024-02-20 | Merge branch 'pipeline-refinement' into 'master'
+9a1610e | Simeranjeet Sandhu | 2024-02-19 | SQ: Duplicate Key this
+2db1c77 | Simeranjeet Sandhu | 2024-02-20 | Merge branch 'pipeline-refinement' into 'master'
+338e770 | Simeranjeet Sandhu | 2024-02-19 | Fixed Lint
+38099bc | Simeranjeet Sandhu | 2024-02-20 | Merge branch 'pipeline-refinement' into 'master'
+26119b9 | Simeranjeet Sandhu | 2024-02-19 | SQ: Do not use Array index in keys
+3df37df | Simeranjeet Sandhu | 2024-02-20 | Merge branch 'pipeline-refinement' into 'master'
+7e2d364 | Simeranjeet Sandhu | 2024-02-19 | Fixed Lint
+d5d18dd | Simeranjeet Sandhu | 2024-02-20 | Merge branch 'pipeline-refinement' into 'master'
+123b4aa | Simeranjeet Sandhu | 2024-02-19 | SQ: remove this commented out code
+7d0b646 | Simeranjeet Sandhu | 2024-02-20 | Merge branch 'pipeline-refinement' into 'master'
+41d4e65 | Simeranjeet Sandhu | 2024-02-19 | SQ: reluctant quantifier match 0 reps - HeaderLogo.Test/WelcomeScreen.test
+026247c | Simeranjeet Sandhu | 2024-02-20 | Merge branch 'pipeline-refinement' into 'master'
+5aef2db | Simeranjeet Sandhu | 2024-02-19 | SQ: useMemo hook - authContext/authContextMock
+42f7dc8 | Simeranjeet Sandhu | 2024-02-19 | Merge branch 'pipeline-refinement' into 'master'
+fa6ebe5 | Simeranjeet Sandhu | 2024-02-19 | Twistlock: AJV
+6b224ed | Simeranjeet Sandhu | 2024-02-19 | Merge branch 'pipeline-refinement' into 'master'
+fb517d0 | Simeranjeet Sandhu | 2024-02-19 | SQ deps: resolving findings
+4fe32b9 | Simeranjeet Sandhu | 2024-02-19 | Merge branch 'pipeline-refinement' into 'master'
+3f1ee9b | Simeranjeet Sandhu | 2024-02-19 | SQ deps: resolving findings
+1358521 | Simeranjeet Sandhu | 2024-02-19 | Merge branch 'pipeline-refinement' into 'master'
+39d9816 | Simeranjeet Sandhu | 2024-02-19 | Regenerated Lockfile
+8727afe | Simeranjeet Sandhu | 2024-02-19 | Merge branch 'pipeline-refinement' into 'master'
+b5e8978 | Simeranjeet Sandhu | 2024-02-19 | Fixing Unit testing - updated element name in CatalogCard.test.js/Fixed ResizedOberserver undefined in [courseMetadataKey]
+a245c30 | Simeranjeet Sandhu | 2024-02-19 | Merge branch 'pipeline-refinement' into 'master'
+e530d3e | Simeranjeet Sandhu | 2024-02-19 | Fixing Unit testing - removed auth context/import error in Login/Support/Register
+08df91a | Simeranjeet Sandhu | 2024-02-19 | Fixing Unit testing
+0c08a88 | Simeranjeet Sandhu | 2024-02-19 | Merge branch 'pipeline-refinement' into 'master'
+d1688cc | Simeranjeet Sandhu | 2024-02-19 | Deleted App.js/undefined prop src error fixed
+361989d | Simeranjeet Sandhu | 2024-02-19 | Merge branch 'pipeline-refinement' into 'master'
+dac02d3 | Simeranjeet Sandhu | 2024-02-19 | Linting fixed
+f57815c | Simeranjeet Sandhu | 2024-02-19 | Merge branch 'pipeline-refinement' into 'master'
+04c9c87 | Simeranjeet Sandhu | 2024-02-19 | Troubleshoooting build errors -reverted code back to github dev branch
+535c22d | Simeranjeet Sandhu | 2024-02-19 | Merge branch 'pipeline-refinement' into 'master'
+43ca9ea | Simeranjeet Sandhu | 2024-02-19 | RemoveduseMemo const
+389e772 | Simeranjeet Sandhu | 2024-02-19 | Merge branch 'pipeline-refinement' into 'master'
+c2f3397 | Simeranjeet Sandhu | 2024-02-19 | Reverting SQ useMemo fix
+a3c864d | Simeranjeet Sandhu | 2024-02-14 | Merge branch 'pipeline-refinement' into 'master'
+3d53fc8 | Simeranjeet Sandhu | 2024-02-14 | Troubleshooting useMemo not defined
+9376b37 | Simeranjeet Sandhu | 2024-02-14 | Merge branch 'pipeline-refinement' into 'master'
+a88cf91 | Simeranjeet Sandhu | 2024-02-14 | Removed .next dir/modified Dockerfile
+f01adb2 | Simeranjeet Sandhu | 2024-02-14 | Removed .next dir/modified Dockerfile
+71e8d5e | Simeranjeet Sandhu | 2024-02-14 | Merge branch 'pipeline-refinement' into 'master'
+7a67f9b | Simeranjeet Sandhu | 2024-02-13 | Fixing Lint
+765cee2 | Simeranjeet Sandhu | 2024-02-13 | Merge branch 'pipeline-refinement' into 'master'
+2adc473 | Simeranjeet Sandhu | 2024-02-13 | SQ code smell: Do not use Array index in keys
+1e51c5a | Simeranjeet Sandhu | 2024-02-13 | Merge branch 'pipeline-refinement' into 'master'
+bedc61e | Simeranjeet Sandhu | 2024-02-13 | SQ code smell: duplicate key this
+903cc31 | Simeranjeet Sandhu | 2024-02-13 | Merge branch 'pipeline-refinement' into 'master'
+ffd1992 | Simeranjeet Sandhu | 2024-02-13 | fixed Lint
+80787c7 | Simeranjeet Sandhu | 2024-02-13 | Merge branch 'pipeline-refinement' into 'master'
+374035a | Simeranjeet Sandhu | 2024-02-13 | SQ code smell: remove commented out code
+44deed6 | Simeranjeet Sandhu | 2024-02-13 | Merge branch 'pipeline-refinement' into 'master'
+f3b6e39 | Simeranjeet Sandhu | 2024-02-13 | SQ code smell: reluctant quantifier match 0 reps
+95da2a2 | Simeranjeet Sandhu | 2024-02-13 | Merge branch 'pipeline-refinement' into 'master'
+a000fdf | Simeranjeet Sandhu | 2024-02-13 | SQ code smell: reluctant quantifier match 0 reps
+8648d9e | Simeranjeet Sandhu | 2024-02-13 | Merge branch 'pipeline-refinement' into 'master'
+af01bd2 | Simeranjeet Sandhu | 2024-02-13 | SQ code smell: useMemo Hook
+7f9b680 | Simeranjeet Sandhu | 2024-02-13 | Merge branch 'pipeline-refinement' into 'master'
+904ce65 | Simeranjeet Sandhu | 2024-02-13 | Twistlock: ajv
+0766ff4 | Simeranjeet Sandhu | 2024-02-13 | Merge branch 'pipeline-refinement' into 'master'
+cfecbd5 | Simeranjeet Sandhu | 2024-02-13 | SQ Deps: moment/qs/ws/jsonwebtoken
+19a60b3 | Simeranjeet Sandhu | 2024-02-13 | Merge branch 'pipeline-refinement' into 'master'
+4264387 | Simeranjeet Sandhu | 2024-02-13 | SQ Deps: Lodash
+30d1388 | Simeranjeet Sandhu | 2024-02-09 | Merge branch 'pipeline-refinement' into 'master'
+8c8ee18 | Simeranjeet Sandhu | 2024-02-09 | Fixing Lint
+71fbe40 | Simeranjeet Sandhu | 2024-02-09 | Merge branch 'pipeline-refinement' into 'master'
+cd044bc | Simeranjeet Sandhu | 2024-02-09 | Fixing Lint
+9aa042d | Simeranjeet Sandhu | 2024-02-09 | Merge branch 'pipeline-refinement' into 'master'
+843ca58 | Simeranjeet Sandhu | 2024-02-09 | Fixing Lint
+2ac1218 | Simeranjeet Sandhu | 2024-02-09 | Merge branch 'pipeline-refinement' into 'master'
+eeebcb5 | Simeranjeet Sandhu | 2024-02-09 | Fixing Lint
+ede01fa | Simeranjeet Sandhu | 2024-02-09 | Merge branch 'pipeline-refinement' into 'master'
+3b2534f | Simeranjeet Sandhu | 2024-02-09 | Fixing Unit tests:resizeObserver
+391e003 | Simeranjeet Sandhu | 2024-02-09 | Merge branch 'pipeline-refinement' into 'master'
+98fa0b5 | Simeranjeet Sandhu | 2024-02-09 | Fixing Unit tests
+5c88cfa | Simeranjeet Sandhu | 2024-02-09 | Merge branch 'pipeline-refinement' into 'master'
+909b80c | Simeranjeet Sandhu | 2024-02-09 | Fixing lint
+0ddcd2a | Simeranjeet Sandhu | 2024-02-09 | Merge branch 'pipeline-refinement' into 'master'
+cddc0c7 | Simeranjeet Sandhu | 2024-02-09 | Fixing unit tests
+f0a2c85 | Simeranjeet Sandhu | 2024-02-09 | Merge branch 'pipeline-refinement' into 'master'
+d59afb0 | Simeranjeet Sandhu | 2024-02-09 | Regenerated lockfile/added lint and unit test in package.json
+9c9061d | Simeranjeet Sandhu | 2024-02-09 | Merge branch 'pipeline-refinement' into 'master'
+e105609 | Simeranjeet Sandhu | 2024-02-09 | Regenerated lockfile
+53a463e | Simeranjeet Sandhu | 2024-02-09 | Merge branch 'pipeline-refinement' into 'master'
+fb28609 | Simeranjeet Sandhu | 2024-02-09 | Resolving code coverage dropping below 80%
+adee0a1 | Simeranjeet Sandhu | 2024-01-31 | Merge branch 'pipeline-refinement' into 'master'
+df32f80 | Simeranjeet Sandhu | 2024-01-31 | SQ Code Smell: Duplicate key this
+1c3b2c5 | Simeranjeet Sandhu | 2024-01-31 | Merge branch 'pipeline-refinement' into 'master'
+36fd3ca | Simeranjeet Sandhu | 2024-01-31 | Twistlock: ajv 6.12.3
+7ab9f17 | Simeranjeet Sandhu | 2024-01-31 | Merge branch 'pipeline-refinement' into 'master'
+2e31502 | Simeranjeet Sandhu | 2024-01-30 | SQ deps: qs/ws
+05d50e8 | Simeranjeet Sandhu | 2024-01-31 | Merge branch 'pipeline-refinement' into 'master'
+8f2470d | Simeranjeet Sandhu | 2024-01-30 | SQ deps: moment/jsonwebtoken
+076e8b0 | Simeranjeet Sandhu | 2024-01-31 | Merge branch 'pipeline-refinement' into 'master'
+74ba57e | Simeranjeet Sandhu | 2024-01-30 | SQ deps: lodash
+6df0c4b | Simeranjeet Sandhu | 2024-01-31 | Merge branch 'pipeline-refinement' into 'master'
+76ef70a | Simeranjeet Sandhu | 2024-01-30 | regenerated lockfile
+0dce3b4 | Simeranjeet Sandhu | 2024-01-31 | Merge branch 'pipeline-refinement' into 'master'
+3ce7636 | Simeranjeet Sandhu | 2024-01-30 | SQ Deps Update: postcss
+b4477d8 | Simeranjeet Sandhu | 2024-01-31 | Merge branch 'pipeline-refinement' into 'master'
+0e6c3f3 | Simeranjeet Sandhu | 2024-01-30 | SQ Deps Update: Lodash/jsonwebtoken/moment/qs/ws
+a20819d | Simeranjeet Sandhu | 2024-01-31 | Merge branch 'pipeline-refinement' into 'master'
+d09f014 | Simeranjeet Sandhu | 2024-01-30 | regenerated lockfile
+0cc6b07 | Simeranjeet Sandhu | 2024-01-31 | Merge branch 'pipeline-refinement' into 'master'
+822700a | Simeranjeet Sandhu | 2024-01-30 | Modified package.json
+79e887c | Simeranjeet Sandhu | 2024-01-30 | Merge branch 'pipeline-refinement' into 'master'
+8ecd1da | Simeranjeet Sandhu | 2024-01-30 | SQ code smells: Duplicate key this: utils.test.js
+d186409 | Simeranjeet Sandhu | 2024-01-30 | Merge branch 'pipeline-refinement' into 'master'
+731d9e1 | Simeranjeet Sandhu | 2024-01-30 | SQ code smells: Removing useless assignment: logo header.js
+5aa17b1 | Simeranjeet Sandhu | 2024-01-30 | Merge branch 'pipeline-refinement' into 'master'
+c907da7 | Simeranjeet Sandhu | 2024-01-30 | SQ code smells: Fixing Key index
+72ab004 | Simeranjeet Sandhu | 2024-01-30 | Merge branch 'pipeline-refinement' into 'master'
+3728294 | Simeranjeet Sandhu | 2024-01-30 | SQ code smells: duplicate key - REVERTED
+9f4f680 | Simeranjeet Sandhu | 2024-01-30 | Merge branch 'pipeline-refinement' into 'master'
+e9ae71b | Simeranjeet Sandhu | 2024-01-30 | SQ code smells: duplicate key
+e48f3e3 | Simeranjeet Sandhu | 2024-01-30 | Merge branch 'pipeline-refinement' into 'master'
+c4f90df | Simeranjeet Sandhu | 2024-01-30 | SQ code smells: Removed commented out code
+e6fff54 | Simeranjeet Sandhu | 2024-01-30 | Merge branch 'pipeline-refinement' into 'master'
+5c552d9 | Simeranjeet Sandhu | 2024-01-30 | SQ code smells: Fixed reluctant quantifier codesmell: HeaderLogo.test.js
+2cd94d5 | Simeranjeet Sandhu | 2024-01-30 | Merge branch 'pipeline-refinement' into 'master'
+8385123 | Simeranjeet Sandhu | 2024-01-30 | SQ code smells: Fixing reluctant quantifier bug
+90837fd | Simeranjeet Sandhu | 2024-01-30 | Merge branch 'pipeline-refinement' into 'master'
+7f8ba57 | Simeranjeet Sandhu | 2024-01-29 | SQ code smells: useMemo hook
+785c30f | Simeranjeet Sandhu | 2024-01-29 | Merge branch 'pipeline-refinement' into 'master'
+d664afe | Simeranjeet Sandhu | 2024-01-29 | SQ deps: ajv
+c4b3937 | Simeranjeet Sandhu | 2024-01-29 | Merge branch 'pipeline-refinement' into 'master'
+910a440 | Simeranjeet Sandhu | 2024-01-29 | SQ deps: lodash
+6d5f20a | Simeranjeet Sandhu | 2024-01-29 | Merge branch 'pipeline-refinement' into 'master'
+201465b | Simeranjeet Sandhu | 2024-01-29 | SQ deps: lodash
+7321b8f | Simeranjeet Sandhu | 2024-01-29 | Merge branch 'pipeline-refinement' into 'master'
+6d2b620 | Simeranjeet Sandhu | 2024-01-29 | SQ deps: postcss
+9b14c94 | Simeranjeet Sandhu | 2024-01-29 | Merge branch 'pipeline-refinement' into 'master'
+51cc64c | Simeranjeet Sandhu | 2024-01-29 | SQ deps: moment/jsonwebtoken
+d8c5a6e | Simeranjeet Sandhu | 2024-01-29 | Merge branch 'pipeline-refinement' into 'master'
+794e2bf | Simeranjeet Sandhu | 2024-01-29 | SQ deps: qs
+c0e88db | Simeranjeet Sandhu | 2024-01-29 | Merge branch 'pipeline-refinement' into 'master'
+fbf4ea7 | Simeranjeet Sandhu | 2024-01-29 | SQ deps: ws
+7436257 | Simeranjeet Sandhu | 2024-01-29 | Merge branch 'pipeline-refinement' into 'master'
+81d9218 | Simeranjeet Sandhu | 2024-01-29 | Regenerated lockfile
+48928d4 | Simeranjeet Sandhu | 2024-01-29 | Merge branch 'pipeline-refinement' into 'master'
+bd4fda5 | Simeranjeet Sandhu | 2024-01-29 | SQ deps: ws/qs
+6ad9678 | Simeranjeet Sandhu | 2024-01-29 | Merge branch 'pipeline-refinement' into 'master'
+a8c305e | Simeranjeet Sandhu | 2024-01-29 | SQ deps: ws/qs
+85583ac | Simeranjeet Sandhu | 2024-01-29 | Merge branch 'pipeline-refinement' into 'master'
+ed14223 | Simeranjeet Sandhu | 2024-01-29 | SQ deps: ws/qs
+3940a57 | Simeranjeet Sandhu | 2024-01-29 | Merge branch 'pipeline-refinement' into 'master'
+51be50c | Simeranjeet Sandhu | 2024-01-29 | SQ deps: moment/jsonwebtoken
+8888453 | Simeranjeet Sandhu | 2024-01-29 | Merge branch 'pipeline-refinement' into 'master'
+99b86e7 | Simeranjeet Sandhu | 2024-01-29 | SQ deps: moment/jsonwebtoken
+84ddbe4 | Simeranjeet Sandhu | 2024-01-29 | Merge branch 'pipeline-refinement' into 'master'
+615282c | Simeranjeet Sandhu | 2024-01-29 | SQ deps: lodash
+d5db1b3 | Simeranjeet Sandhu | 2024-01-29 | Merge branch 'pipeline-refinement' into 'master'
+a03ecb0 | Simeranjeet Sandhu | 2024-01-29 | Regenerated lockfile
+2b7efa3 | Simeranjeet Sandhu | 2024-01-29 | Merge branch 'pipeline-refinement' into 'master'
+bae2156 | Simeranjeet Sandhu | 2024-01-29 | Changes made to CourseDataContainer.test.js for unit tests
+e67a060 | Simeranjeet Sandhu | 2024-01-29 | Merge branch 'pipeline-refinement' into 'master'
+3fd7a0e | Simeranjeet Sandhu | 2024-01-29 | removing authcontext.test.js file
+1b84fba | Simeranjeet Sandhu | 2024-01-29 | Merge branch 'pipeline-refinement' into 'master'
+c2b3dca | Simeranjeet Sandhu | 2024-01-29 | Fixing Unit tests
+95abafa | Simeranjeet Sandhu | 2024-01-29 | Merge branch 'pipeline-refinement' into 'master'
+e824dbc | Simeranjeet Sandhu | 2024-01-29 | Fixing Unit tests
+e4054dd | Simeranjeet Sandhu | 2024-01-25 | Merge branch 'pipeline-refinement' into 'master'
+e6ce4bb | Simeranjeet Sandhu | 2024-01-25 | updated package.json unit test
+b215603 | Simeranjeet Sandhu | 2024-01-23 | Merge branch 'pipeline-refinement' into 'master'
+579c753 | Simeranjeet Sandhu | 2024-01-23 | regenerated lockfile
+b5af37c | Simeranjeet Sandhu | 2024-01-23 | Merge branch 'pipeline-refinement' into 'master'
+e73f7c0 | Simeranjeet Sandhu | 2024-01-23 | Code update for broken unit tests
+28f2ce8 | Simeranjeet Sandhu | 2024-01-23 | Merge branch 'pipeline-refinement' into 'master'
+e164d9e | Simeranjeet Sandhu | 2024-01-23 | Code update for broken unit tests
+ec2c7e0 | Simeranjeet Sandhu | 2024-01-23 | Merge branch 'pipeline-refinement' into 'master'
+a39575d | Simeranjeet Sandhu | 2024-01-23 | Code update for broken unit tests
+90c2c0b | Simeranjeet Sandhu | 2024-01-16 | Merge branch 'pipeline-refinement' into 'master'
+0e8ccd9 | Simeranjeet Sandhu | 2024-01-16 | Resolving Unit Tests - case error
+c304a6e | Simeranjeet Sandhu | 2024-01-12 | Merge branch 'pipeline-refinement' into 'master'
+107f5a9 | Simeranjeet Sandhu | 2024-01-12 | Unit tests
+20977b7 | Simeranjeet Sandhu | 2024-01-12 | Merge branch 'pipeline-refinement' into 'master'
+0f90f6b | Simeranjeet Sandhu | 2024-01-12 | Unit tests
+b83667d | Simeranjeet Sandhu | 2024-01-12 | Merge branch 'pipeline-refinement' into 'master'
+11748a1 | Simeranjeet Sandhu | 2024-01-12 | Unit tests
+5213824 | Simeranjeet Sandhu | 2024-01-12 | Merge branch 'pipeline-refinement' into 'master'
+aacc3d9 | Simeranjeet Sandhu | 2024-01-12 | Added fileMock.js
+068299e | Simeranjeet Sandhu | 2024-01-12 | Merge branch 'pipeline-refinement' into 'master'
+954465e | Simeranjeet Sandhu | 2024-01-12 | Removed unused tests
+0459774 | Simeranjeet Sandhu | 2024-01-12 | Merge branch 'pipeline-refinement' into 'master'
+aca90e9 | Simeranjeet Sandhu | 2024-01-12 | Fixing unit tests: continued
+b78545e | Simeranjeet Sandhu | 2024-01-12 | Merge branch 'pipeline-refinement' into 'master'
+3cb9011 | Simeranjeet Sandhu | 2024-01-12 | Fixing unit tests: continued
+c0eb6ed | Simeranjeet Sandhu | 2024-01-12 | Merge branch 'pipeline-refinement' into 'master'
+2b94720 | Simeranjeet Sandhu | 2024-01-12 | Fixing unit tests: continued
+a323fba | Simeranjeet Sandhu | 2024-01-11 | Merge branch 'pipeline-refinement' into 'master'
+67b197b | Simeranjeet Sandhu | 2024-01-11 | Fixing Unit tests
+8f25c3c | Simeranjeet Sandhu | 2024-01-11 | Merge branch 'pipeline-refinement' into 'master'
+75c9628 | Simeranjeet Sandhu | 2024-01-11 | added dashboard/ DIR
+19ca23d | Simeranjeet Sandhu | 2024-01-11 | Merge branch 'pipeline-refinement' into 'master'
+30da911 | Simeranjeet Sandhu | 2024-01-11 | deleting Dashboard/ dir
+3eed356 | Simeranjeet Sandhu | 2024-01-11 | Merge branch 'pipeline-refinement' into 'master'
+9f2aad8 | Simeranjeet Sandhu | 2024-01-11 | Added jest config files
+fac59fc | Simeranjeet Sandhu | 2024-01-11 | Merge branch 'pipeline-refinement' into 'master'
+37d4f1b | Simeranjeet Sandhu | 2024-01-11 | reverting package.json changes
+364d573 | Simeranjeet Sandhu | 2024-01-11 | Merge branch 'pipeline-refinement' into 'master'
+3a33e31 | Simeranjeet Sandhu | 2024-01-11 | Modified package.json
+72164c5 | Simeranjeet Sandhu | 2024-01-11 | Merge branch 'pipeline-refinement' into 'master'
+25f92d3 | Simeranjeet Sandhu | 2024-01-11 | Removed jest files
+a29def1 | Simeranjeet Sandhu | 2024-01-11 | Merge branch 'pipeline-refinement' into 'master'
+e241dd2 | Simeranjeet Sandhu | 2024-01-11 | Added App.js
+0ad6794 | Simeranjeet Sandhu | 2024-01-11 | Merge branch 'pipeline-refinement' into 'master'
+4f90c2d | Simeranjeet Sandhu | 2024-01-11 | Added mockSetUp.js
+8d25dd3 | Simeranjeet Sandhu | 2024-01-11 | Merge branch 'pipeline-refinement' into 'master'
+061f665 | Simeranjeet Sandhu | 2024-01-11 | Added missing files for unit tests
+a3d96cd | Simeranjeet Sandhu | 2024-01-05 | Merge branch 'pipeline-fixes' into 'master'
+3ff32fb | Simeranjeet Sandhu | 2024-01-05 | Unit Tests - modified mockSetUp.js
+d59f748 | Simeranjeet Sandhu | 2024-01-04 | Merge branch 'pipeline-fixes' into 'master'
+7c2a161 | Simeranjeet Sandhu | 2024-01-04 | added mockSetUp.js
+9011d22 | Simeranjeet Sandhu | 2024-01-04 | Removed mockSetup.js
+3aa8c39 | Simeranjeet Sandhu | 2024-01-04 | Merge branch 'next' into 'master'
+400c0b9 | Simeranjeet Sandhu | 2024-01-04 | Added mockSetup.js file
+d37cf97 | Simeranjeet Sandhu | 2024-01-04 | Merge branch 'next' into 'master'
+7635dd6 | Simeranjeet Sandhu | 2024-01-04 | Twistlock: upgraded ajv to 6.12.3
+43e58c1 | Simeranjeet Sandhu | 2024-01-04 | Merge branch 'next' into 'master'
+006b20d | Simeranjeet Sandhu | 2024-01-04 | SQ deps: upgraded jsonwebtoken/moment/lodash/ws/qs/postcss
+4ca00b5 | Simeranjeet Sandhu | 2024-01-04 | Merge branch 'next' into 'master'
+830436c | Simeranjeet Sandhu | 2024-01-04 | Downgraded jsdom to meet nodejs16.x compatability
+48c26bc | Simeranjeet Sandhu | 2024-01-04 | Merge branch 'next' into 'master'
+5316da9 | Simeranjeet Sandhu | 2024-01-04 | Regenerated lockfile
+d168180 | Simeranjeet Sandhu | 2024-01-04 | Merge branch 'next' into 'master'
+636c2f2 | Simeranjeet Sandhu | 2024-01-04 | Regenerated lockfile
+da8bb98 | Simeranjeet Sandhu | 2024-01-04 | Merge branch 'next' into 'master'
+0d44f27 | Simeranjeet Sandhu | 2024-01-04 | Twistlock: Upgraded jsdom
+60f29fe | Simeranjeet Sandhu | 2024-01-04 | Merge branch 'next' into 'master'
+4135c74 | Simeranjeet Sandhu | 2024-01-04 | Twistlock: Upgraded jsdom
+fede122 | Simeranjeet Sandhu | 2024-01-04 | Merge branch 'next' into 'master'
+f81635d | Simeranjeet Sandhu | 2024-01-04 | added jest.setup.js for Unit Tests
+890956a | Simeranjeet Sandhu | 2024-01-04 | Merge branch 'next' into 'master'
+06ad835 | Simeranjeet Sandhu | 2024-01-04 | SQ deps: qs
+196eee1 | Simeranjeet Sandhu | 2024-01-04 | Merge branch 'next' into 'master'
+eb0611a | Simeranjeet Sandhu | 2024-01-04 | SQ deps: ws
+5682a56 | Simeranjeet Sandhu | 2024-01-04 | Merge branch 'next' into 'master'
+ec8689b | Simeranjeet Sandhu | 2024-01-04 | SQ deps: ws/qs
+d2bbe63 | Simeranjeet Sandhu | 2024-01-04 | Merge branch 'next' into 'master'
+f35bad7 | Simeranjeet Sandhu | 2024-01-04 | SQ deps: postcss
+38a07a2 | Simeranjeet Sandhu | 2024-01-04 | Merge branch 'next' into 'master'
+a44afd4 | Simeranjeet Sandhu | 2024-01-04 | SQ deps: postcss
+84af2b6 | Simeranjeet Sandhu | 2024-01-04 | Merge branch 'next' into 'master'
+693b71c | Simeranjeet Sandhu | 2024-01-04 | SQ deps: lodash/moment/jsonwebtoken
+4e458fb | Simeranjeet Sandhu | 2024-01-04 | Merge branch 'next' into 'master'
+d90a798 | Simeranjeet Sandhu | 2024-01-04 | Regenerated lockfile
+b355740 | Simeranjeet Sandhu | 2024-01-04 | Merge branch 'next' into 'master'
+0f2659d | Simeranjeet Sandhu | 2024-01-04 | Fixing SQ deps
+7ec44ad | Simeranjeet Sandhu | 2024-01-04 | Regenerated lockfile
+640c123 | Simeranjeet Sandhu | 2024-01-04 | Merge branch 'next' into 'master'
+7d2b2d1 | Simeranjeet Sandhu | 2024-01-04 | Fixing ajv in lockfile for yarn install stage
+56d16bf | Simeranjeet Sandhu | 2024-01-04 | Merge branch 'next' into 'master'
+e3e115e | Simeranjeet Sandhu | 2024-01-04 | Removed postcss from package.json
+668ac0c | Simeranjeet Sandhu | 2024-01-04 | Merge branch 'next' into 'master'
+75d2ffd | Simeranjeet Sandhu | 2024-01-04 | Removed postcss from package.json
+f38c7da | Simeranjeet Sandhu | 2024-01-04 | Merge branch 'next' into 'master'
+6e0d69e | Simeranjeet Sandhu | 2024-01-04 | Twistlock: ajv
+f5bff75 | Simeranjeet Sandhu | 2024-01-04 | Merge branch 'next' into 'master'
+4964b8b | Simeranjeet Sandhu | 2024-01-04 | SQ deps: ws/qs/postcss
+5f99c77 | Simeranjeet Sandhu | 2024-01-04 | Merge branch 'next' into 'master'
+d2f5c97 | Simeranjeet Sandhu | 2024-01-04 | SQ deps: lodash/moment/jsonwebtoken
+4a6302c | Simeranjeet Sandhu | 2024-01-04 | Merge branch 'next' into 'master'
+66afa73 | Simeranjeet Sandhu | 2024-01-04 | Regenerated lockfile
+e0af2a4 | Simeranjeet Sandhu | 2024-01-03 | Merge branch 'next' into 'master'
+9cd50d8 | Simeranjeet Sandhu | 2024-01-03 | Added jest-environment-jsdom
+f619b48 | Simeranjeet Sandhu | 2024-01-03 | Merge branch 'next' into 'master'
+f60f381 | Simeranjeet Sandhu | 2024-01-03 | updated jest config
+ceb1f6c | Simeranjeet Sandhu | 2024-01-03 | Merge branch 'next' into 'master'
+342bb89 | Simeranjeet Sandhu | 2024-01-03 | added jest.config.js & jsconfig.json
+952b899 | Simeranjeet Sandhu | 2024-01-03 | Merge branch 'next' into 'master'
+e373386 | Simeranjeet Sandhu | 2024-01-03 | SQ deps: postcss
+3dcc772 | Simeranjeet Sandhu | 2024-01-03 | Merge branch 'next' into 'master'
+378b232 | Simeranjeet Sandhu | 2024-01-03 | SQ deps: ws/qs
+f97d7c3 | Simeranjeet Sandhu | 2024-01-03 | Merge branch 'next' into 'master'
+8824df6 | Simeranjeet Sandhu | 2024-01-03 | SQ deps: moment
+1766113 | Simeranjeet Sandhu | 2024-01-03 | Merge branch 'next' into 'master'
+d94bd57 | Simeranjeet Sandhu | 2024-01-03 | SQ deps: jsonwebtoken
+de9c135 | Simeranjeet Sandhu | 2024-01-03 | Merge branch 'next' into 'master'
+dd357f6 | Simeranjeet Sandhu | 2024-01-03 | SQ deps: lodash
+711f7a9 | Simeranjeet Sandhu | 2024-01-03 | Merge branch 'next' into 'master'
+00f03db | Simeranjeet Sandhu | 2024-01-03 | SQ deps: lodash
+2d2c72a | Simeranjeet Sandhu | 2024-01-03 | Merge branch 'next' into 'master'
+9af31d2 | Simeranjeet Sandhu | 2024-01-03 | regenerated lockfile
+219d620 | Simeranjeet Sandhu | 2024-01-03 | Merge branch 'next' into 'master'
+950e3b9 | Simeranjeet Sandhu | 2024-01-03 | SQ dep checks
+31cf409 | Simeranjeet Sandhu | 2024-01-03 | Merge branch 'next' into 'master'
+c58e334 | Simeranjeet Sandhu | 2024-01-03 | Migrating to next
+7507495 | Simeranjeet Sandhu | 2023-11-07 | Merge branch 'pipeline-fix' into 'master'
+e7ad93e | Simeranjeet Sandhu | 2023-11-07 | Fixed REACT_APP_XMS_BACKEND value
+0865f88 | Simeranjeet Sandhu | 2023-11-07 | Merge branch 'pipeline-fix' into 'master'
+a185303 | Simeranjeet Sandhu | 2023-11-07 | Added env vars for backend
+35662d5 | Simeranjeet Sandhu | 2023-11-07 | Merge branch 'pipeline-fix' into 'master'
+398ef1f | Simeranjeet Sandhu | 2023-11-07 | Updated package.json to have csp run with start
+1daacc1 | Simeranjeet Sandhu | 2023-11-07 | Merge branch 'pipeline-fix' into 'master'
+4f76dc5 | Simeranjeet Sandhu | 2023-11-07 | Modified Dockerfile
+f6eb192 | Simeranjeet Sandhu | 2023-11-07 | Merge branch 'pipeline-fix' into 'master'
+43627a7 | Simeranjeet Sandhu | 2023-11-07 | Modified Dockerfile
+f402be5 | Simeranjeet Sandhu | 2023-11-07 | Merge branch 'pipeline-fix' into 'master'
+a5488d5 | Simeranjeet Sandhu | 2023-11-07 | Modified Dockerfile
+50c2ab8 | Simeranjeet Sandhu | 2023-11-07 | Merge branch 'pipeline-fix' into 'master'
+d65de42 | Simeranjeet Sandhu | 2023-11-07 | Modified Dockerfile
+7da59a9 | Simeranjeet Sandhu | 2023-11-07 | Modified Dockerfile
+d8f79b0 | Simeranjeet Sandhu | 2023-11-07 | Merge branch 'pipeline-fix' into 'master'
+cbda768 | Simeranjeet Sandhu | 2023-11-07 | lowered node memory
+4a5a358 | Simeranjeet Sandhu | 2023-11-07 | Merge branch 'pipeline-fix' into 'master'
+5d82b23 | Simeranjeet Sandhu | 2023-11-07 | lowered node memory
+24c8f50 | Simeranjeet Sandhu | 2023-11-07 | Merge branch 'pipeline-fix' into 'master'
+c806339 | Simeranjeet Sandhu | 2023-11-07 | lowered node memory
+d6335e6 | Simeranjeet Sandhu | 2023-11-07 | Merge branch 'pipeline-fix' into 'master'
+bd47f60 | Simeranjeet Sandhu | 2023-11-07 | increasing memory limit for node
+2e414d0 | Simeranjeet Sandhu | 2023-11-07 | Merge branch 'pipeline-fix' into 'master'
+11853c1 | Simeranjeet Sandhu | 2023-11-07 | Twistlock - unset-value 2.0.1
+d3fbe2d | Simeranjeet Sandhu | 2023-11-07 | Merge branch 'pipeline-fix' into 'master'
+6ecf48a | Simeranjeet Sandhu | 2023-11-07 | Twistlock - prompts 2.4.2/clean-css 5.2.2
+0ef2084 | Simeranjeet Sandhu | 2023-11-07 | Merge branch 'pipeline-fix' into 'master'
+ad7ff0f | Simeranjeet Sandhu | 2023-11-07 | Twistlock - upgraded to jsdom ^16.4.0
+79e3083 | Simeranjeet Sandhu | 2023-11-07 | Merge branch 'pipeline-fix' into 'master'
+8a0e09d | Simeranjeet Sandhu | 2023-11-06 | SQ Deps Checks - tough-cookie
+0efe7ab | Simeranjeet Sandhu | 2023-11-07 | Merge branch 'pipeline-fix' into 'master'
+20fa831 | Simeranjeet Sandhu | 2023-11-06 | SQ Deps Checks - Lodash/Twistlock: remove files
+ded3edc | Simeranjeet Sandhu | 2023-11-07 | Merge branch 'pipeline-fix' into 'master'
+4eb5385 | Simeranjeet Sandhu | 2023-11-06 | SQ Deps Checks - Lodash/Twistlock: remove files
+fae961a | Simeranjeet Sandhu | 2023-11-07 | Merge branch 'pipeline-fix' into 'master'
+a7a81ba | Simeranjeet Sandhu | 2023-11-06 | SQ Deps Checks
+e60b5c8 | Simeranjeet Sandhu | 2023-11-07 | Merge branch 'pipeline-fix' into 'master'
+c8d48e3 | Simeranjeet Sandhu | 2023-11-06 | SQ: Regenerated lockfile
+b6009d8 | Simeranjeet Sandhu | 2023-11-06 | SQ: upgraded react-dev-utils@12.0.1 - reverted
+17f42df | Simeranjeet Sandhu | 2023-11-06 | SQ: upgraded react-dev-utils@12.0.1
+2e805b2 | Simeranjeet Sandhu | 2023-11-07 | Merge branch 'pipeline-fix' into 'master'
+2bb054d | Simeranjeet Sandhu | 2023-11-06 | SQ: upgraded react-dev-utils@12.0.1
+4cf3b52 | Simeranjeet Sandhu | 2023-11-07 | Merge branch 'pipeline-fix' into 'master'
+6f12cd0 | Simeranjeet Sandhu | 2023-11-06 | Regenerated lockfile for Twistlock bugs
+a7f56a0 | Simeranjeet Sandhu | 2023-11-03 | Merge branch 'pipeline-fix' into 'master'
+4144b2b | Simeranjeet Sandhu | 2023-11-03 | testing csp headers - continued
+7650956 | Simeranjeet Sandhu | 2023-11-03 | Merge branch 'pipeline-fix' into 'master'
+664399f | Simeranjeet Sandhu | 2023-11-03 | testing csp headers - continued
+6bdc5f2 | Simeranjeet Sandhu | 2023-11-03 | Merge branch 'pipeline-fix' into 'master'
+aad3420 | Simeranjeet Sandhu | 2023-11-03 | testing csp headers - continued
+b9e0c64 | Simeranjeet Sandhu | 2023-11-03 | Merge branch 'pipeline-fix' into 'master'
+abde1db | Simeranjeet Sandhu | 2023-11-03 | added webpack to craco.config.js
+fa393bf | Simeranjeet Sandhu | 2023-11-03 | Merge branch 'pipeline-fix' into 'master'
+8c39dd7 | Simeranjeet Sandhu | 2023-11-03 | testing csp headers - continued
+a79dc40 | Simeranjeet Sandhu | 2023-11-03 | Merge branch 'pipeline-fix' into 'master'
+5417e03 | Simeranjeet Sandhu | 2023-11-03 | testing csp headers - continued
+d7326ae | Simeranjeet Sandhu | 2023-11-03 | Merge branch 'pipeline-fix' into 'master'
+eba1e01 | Simeranjeet Sandhu | 2023-11-03 | testing csp headers - continued
+26329a9 | Simeranjeet Sandhu | 2023-11-03 | testing csp headers - continued
+900fac0 | Simeranjeet Sandhu | 2023-11-03 | Merge branch 'pipeline-fix' into 'master'
+5445167 | Simeranjeet Sandhu | 2023-11-02 | testing csp headers
+0260438 | Simeranjeet Sandhu | 2023-11-03 | Merge branch 'pipeline-fix' into 'master'
+85be473 | Simeranjeet Sandhu | 2023-11-02 | testing csp headers
+a84db8a | Simeranjeet Sandhu | 2023-11-03 | Merge branch 'pipeline-fix' into 'master'
+3eb7028 | Simeranjeet Sandhu | 2023-11-02 | testing csp headers
+7f70cf6 | Simeranjeet Sandhu | 2023-11-03 | Merge branch 'pipeline-fix' into 'master'
+70c3dba | Simeranjeet Sandhu | 2023-11-02 | testing csp headers
+ec08ac3 | Simeranjeet Sandhu | 2023-11-03 | Merge branch 'pipeline-fix' into 'master'
+a5912a9 | Simeranjeet Sandhu | 2023-11-02 | testing csp headers
+76a303c | Simeranjeet Sandhu | 2023-11-03 | Merge branch 'pipeline-fix' into 'master'
+9e0eba4 | Simeranjeet Sandhu | 2023-11-02 | testing csp headers
+dc5ddc8 | Simeranjeet Sandhu | 2023-11-03 | Merge branch 'pipeline-fix' into 'master'
+9378703 | Simeranjeet Sandhu | 2023-11-02 | testing csp headers
+9a2abe7 | Simeranjeet Sandhu | 2023-11-02 | Merge branch 'pipeline-fix' into 'master'
+7d9e933 | Simeranjeet Sandhu | 2023-11-02 | Testing csp headers
+cedb234 | Simeranjeet Sandhu | 2023-11-02 | Merge branch 'pipeline-fix' into 'master'
+e3acbff | Simeranjeet Sandhu | 2023-11-02 | Testing csp headers
+f9147da | Simeranjeet Sandhu | 2023-11-02 | Testing csp headers
+6a50f98 | Simeranjeet Sandhu | 2023-11-02 | Merge branch 'pipeline-fix' into 'master'
+633ae1d | Simeranjeet Sandhu | 2023-11-02 | CSP headers - debugging/testing
+31f9c42 | Simeranjeet Sandhu | 2023-11-02 | CSP headers - debugging/testing
+b62afaa | Simeranjeet Sandhu | 2023-11-02 | Merge branch 'pipeline-fix' into 'master'
+fb3546c | Simeranjeet Sandhu | 2023-11-02 | CSP headers - debugging/testing
+7c7e2c7 | Simeranjeet Sandhu | 2023-11-02 | Merge branch 'pipeline-fix' into 'master'
+433ee47 | Simeranjeet Sandhu | 2023-11-02 | CSP headers - debugging/testing
+45a92a9 | Simeranjeet Sandhu | 2023-11-02 | Merge branch 'pipeline-fix' into 'master'
+4df7a66 | Simeranjeet Sandhu | 2023-11-02 | CSP headers - removed script-src-elem
+0a2c98b | Simeranjeet Sandhu | 2023-11-02 | Merge branch 'pipeline-fix' into 'master'
+650ee87 | Simeranjeet Sandhu | 2023-11-01 | Added CSP headers for SD elements T331
+fa4aa26 | Simeranjeet Sandhu | 2023-11-02 | Merge branch 'pipeline-fix' into 'master'
+b2863f1 | Simeranjeet Sandhu | 2023-11-01 | Dep check: loaders-utils/minimatch/browserslist/semver
+2096d96 | Simeranjeet Sandhu | 2023-11-02 | Merge branch 'pipeline-fix' into 'master'
+df70a62 | Simeranjeet Sandhu | 2023-11-01 | Dep check: postcss
+0c7f1aa | Simeranjeet Sandhu | 2023-11-02 | Merge branch 'pipeline-fix' into 'master'
+a44467d | Simeranjeet Sandhu | 2023-11-01 | Dep check: postcss
+5b6b23a | Simeranjeet Sandhu | 2023-11-02 | Merge branch 'pipeline-fix' into 'master'
+474e943 | Simeranjeet Sandhu | 2023-11-01 | Dep check: ws
+2296f95 | Simeranjeet Sandhu | 2023-11-02 | Merge branch 'pipeline-fix' into 'master'
+54a54a5 | Simeranjeet Sandhu | 2023-11-01 | REVERTED - Dep check: ws
+feffe9a | Simeranjeet Sandhu | 2023-11-02 | Merge branch 'pipeline-fix' into 'master'
+b363211 | Simeranjeet Sandhu | 2023-11-01 | Dep check: ws/ajv/node-forge
+1dab2d3 | Simeranjeet Sandhu | 2023-11-02 | Merge branch 'pipeline-fix' into 'master'
+e5e3769 | Simeranjeet Sandhu | 2023-11-01 | Dep check: ajv/immer
+fb74e46 | Simeranjeet Sandhu | 2023-11-02 | Merge branch 'pipeline-fix' into 'master'
+a523f19 | Simeranjeet Sandhu | 2023-11-01 | REVERTED- Dep check: ws/ajv/lodash/node-forge/minimatch/semver/loader-utils/immer/browserslist/ejs
+92ec774 | Simeranjeet Sandhu | 2023-11-02 | Merge branch 'pipeline-fix' into 'master'
+f7feb54 | Simeranjeet Sandhu | 2023-11-01 | Dep check: ws/ajv/lodash/node-forge/minimatch/semver/loader-utils/immer/browserslist/ejs
+225d0e3 | Simeranjeet Sandhu | 2023-11-02 | Merge branch 'pipeline-fix' into 'master'
+eb4e721 | Simeranjeet Sandhu | 2023-11-01 | Dep check: shell-quote/jsonwebtoken/moment/qs/ws/nth-check/glob-parent
+bfe6998 | Simeranjeet Sandhu | 2023-11-02 | Merge branch 'pipeline-fix' into 'master'
+2a0e191 | Simeranjeet Sandhu | 2023-11-01 | regenerated lock file due to yarn error in dep check
+234d4d4 | Simeranjeet Sandhu | 2023-11-02 | Merge branch 'pipeline-fix' into 'master'
+e62d520 | Simeranjeet Sandhu | 2023-11-01 | Fixing yarn error in lock file
+7a0a335 | Simeranjeet Sandhu | 2023-11-02 | Merge branch 'pipeline-fix' into 'master'
+10c8092 | Simeranjeet Sandhu | 2023-11-01 | Fixed syntax error in yarn.lock
+4e2fc32 | Simeranjeet Sandhu | 2023-11-02 | Merge branch 'pipeline-fix' into 'master'
+c890ffb | Simeranjeet Sandhu | 2023-11-01 | Resolved all SQ dependency checks
+e13d4b8 | Simeranjeet Sandhu | 2023-11-02 | Merge branch 'pipeline-fix' into 'master'
+c6a09d3 | Simeranjeet Sandhu | 2023-11-01 | Regenerated lock file to include react-csp
+2af482d | Simeranjeet Sandhu | 2023-11-02 | Merge branch 'pipeline-fix' into 'master'
+636389f | Simeranjeet Sandhu | 2023-11-01 | Regenerated lock file to include react-csp
+e6425d1 | Simeranjeet Sandhu | 2023-11-02 | Merge branch 'pipeline-fix' into 'master'
+40be24f | Simeranjeet Sandhu | 2023-11-01 | CSP headers: added react-csp to package.json
+2e153b5 | Simeranjeet Sandhu | 2023-10-31 | Merge branch 'pipeline-fix' into 'master'
+db22319 | Simeranjeet Sandhu | 2023-10-31 | SQ: Wrapped object with useMemo hook
+ec8a5dc | Simeranjeet Sandhu | 2023-10-31 | Merge branch 'pipeline-fix' into 'master'
+783e078 | Simeranjeet Sandhu | 2023-10-31 | SQ: Wrapped object with useMemo hook
+47cbcc7 | Simeranjeet Sandhu | 2023-10-31 | Merge branch 'pipeline-fix' into 'master'
+8be4610 | Simeranjeet Sandhu | 2023-10-31 | SQ: Wrapped object with useMemo hook
+aa31970 | Simeranjeet Sandhu | 2023-10-31 | Merge branch 'pipeline-fix' into 'master'
+5bae8aa | Simeranjeet Sandhu | 2023-10-31 | Sonarqube code smells: Fixed array index
+601d9f3 | Simeranjeet Sandhu | 2023-10-31 | Merge branch 'pipeline-fix' into 'master'
+ab345c3 | Simeranjeet Sandhu | 2023-10-31 | Sonarqube code smells: Fixed array index/removed commented code
+3b31a15 | Simeranjeet Sandhu | 2023-10-31 | Merge branch 'pipeline-fix' into 'master'
+3d5a3f1 | Simeranjeet Sandhu | 2023-10-31 | Sonarqube code smells: Fixing relectant quantifier bug
+dfb6b48 | Simeranjeet Sandhu | 2023-10-31 | Merge branch 'pipeline-fix' into 'master'
+9061535 | Simeranjeet Sandhu | 2023-10-31 | Sonarqube code smells: Fixing key index - continued
+1d470d8 | Simeranjeet Sandhu | 2023-10-31 | Merge branch 'pipeline-fix' into 'master'
+1a56b5a | Simeranjeet Sandhu | 2023-10-31 | Sonarqube code smells: Fixing key index - continued
+343a2bd | Simeranjeet Sandhu | 2023-10-31 | Merge branch 'pipeline-fix' into 'master'
+f16faf4 | Simeranjeet Sandhu | 2023-10-31 | Sonarqube code smells: Fix reluctant/key index
+b5a2000 | Simeranjeet Sandhu | 2023-10-31 | Merge branch 'pipeline-fix' into 'master'
+32196bc | Simeranjeet Sandhu | 2023-10-31 | SQ: fixing reluctant quantifier code smell
+bc19de2 | Simeranjeet Sandhu | 2023-10-31 | Merge branch 'pipeline-fix' into 'master'
+fecf38b | Simeranjeet Sandhu | 2023-10-31 | SQ: Removing useless variable assignments
+164ab95 | Simeranjeet Sandhu | 2023-10-31 | Merge branch 'pipeline-fix' into 'master'
+e5ece77 | Simeranjeet Sandhu | 2023-10-31 | SQ: Removing useless variable assignments
+05959a1 | Simeranjeet Sandhu | 2023-10-31 | Merge branch 'pipeline-fix' into 'master'
+2f70d33 | Simeranjeet Sandhu | 2023-10-31 | SQ: Duplicate key
+b7b4487 | Simeranjeet Sandhu | 2023-10-31 | SQ: Duplicate key - reverted
+6bed98c | Simeranjeet Sandhu | 2023-10-31 | Merge branch 'pipeline-fix' into 'master'
+15b2348 | Simeranjeet Sandhu | 2023-10-31 | SQ: Duplicate key
+c82c962 | Simeranjeet Sandhu | 2023-10-31 | Merge branch 'pipeline-fix' into 'master'
+b57df12 | Simeranjeet Sandhu | 2023-10-31 | SQ deps - postcss
+2fc7d74 | Simeranjeet Sandhu | 2023-10-31 | Merge branch 'pipeline-fix' into 'master'
+86fac95 | Simeranjeet Sandhu | 2023-10-31 | SQ deps - postcss
+1b5036c | Simeranjeet Sandhu | 2023-10-31 | Merge branch 'pipeline-fix' into 'master'
+50bb19a | Simeranjeet Sandhu | 2023-10-31 | SQ deps - postcss
+d95bcd7 | Simeranjeet Sandhu | 2023-10-31 | Merge branch 'pipeline-fix' into 'master'
+ab10a63 | Simeranjeet Sandhu | 2023-10-30 | SQ deps - semver
+235f3c1 | Simeranjeet Sandhu | 2023-10-31 | Merge branch 'pipeline-fix' into 'master'
+a27c661 | Simeranjeet Sandhu | 2023-10-30 | SQ deps - ws/qs
+af1c86a | Simeranjeet Sandhu | 2023-10-31 | Merge branch 'pipeline-fix' into 'master'
+198784a | Simeranjeet Sandhu | 2023-10-30 | SQ deps - ajv/browserslist/jsonwebtoken
+20380aa | Simeranjeet Sandhu | 2023-10-31 | Merge branch 'pipeline-fix' into 'master'
+5519100 | Simeranjeet Sandhu | 2023-10-30 | SQ deps - minimatch/moment/glob-parent/nth-check
+056d4f9 | Simeranjeet Sandhu | 2023-10-31 | Merge branch 'pipeline-fix' into 'master'
+d771d0a | Simeranjeet Sandhu | 2023-10-30 | SQ deps - ejs/loader-utils
+9f81745 | Simeranjeet Sandhu | 2023-10-31 | Merge branch 'pipeline-fix' into 'master'
+c11a021 | Simeranjeet Sandhu | 2023-10-30 | SQ deps - lodash
+2245adf | Simeranjeet Sandhu | 2023-10-31 | Merge branch 'pipeline-fix' into 'master'
+af96284 | Simeranjeet Sandhu | 2023-10-30 | SQ deps - shell-quote/node-forge/immer
+34698f7 | Simeranjeet Sandhu | 2023-10-31 | Merge branch 'pipeline-fix' into 'master'
+bb20ae3 | Simeranjeet Sandhu | 2023-10-30 | SQ deps - postcss
+d9a7162 | Simeranjeet Sandhu | 2023-10-31 | Merge branch 'pipeline-fix' into 'master'
+04ca7ad | Simeranjeet Sandhu | 2023-10-30 | Regenerated lockfile
+632f993 | Simeranjeet Sandhu | 2023-10-31 | Merge branch 'pipeline-fix' into 'master'
+b50a49c | Simeranjeet Sandhu | 2023-10-30 | SQ Deps: moment/ansi-html/ajv
+d800302 | Simeranjeet Sandhu | 2023-10-31 | Merge branch 'pipeline-fix' into 'master'
+fd2de5c | Simeranjeet Sandhu | 2023-10-30 | SQ Deps: minimatch/glob-parent/immer
+48260a3 | Simeranjeet Sandhu | 2023-10-31 | Merge branch 'pipeline-fix' into 'master'
+1e85a5d | Simeranjeet Sandhu | 2023-10-30 | SQ Deps: postcss
+c37bf91 | Simeranjeet Sandhu | 2023-10-31 | Merge branch 'pipeline-fix' into 'master'
+05ddee9 | Simeranjeet Sandhu | 2023-10-30 | SQ Deps: postcss - fixed syntax in yarn.lock
+b56ed0a | Simeranjeet Sandhu | 2023-10-31 | Merge branch 'pipeline-fix' into 'master'
+3205962 | Simeranjeet Sandhu | 2023-10-30 | SQ Deps: postcss
+ec1db8c | Simeranjeet Sandhu | 2023-10-31 | Merge branch 'pipeline-fix' into 'master'
+d050ce7 | Simeranjeet Sandhu | 2023-10-30 | SQ Deps: reverting postcss- yarn error
+753338c | Simeranjeet Sandhu | 2023-10-31 | Merge branch 'pipeline-fix' into 'master'
+6ebb6b9 | Simeranjeet Sandhu | 2023-10-30 | SQ Deps: postcss
+d1fa39c | Simeranjeet Sandhu | 2023-10-31 | Merge branch 'pipeline-fix' into 'master'
+ba90a9e | Simeranjeet Sandhu | 2023-10-30 | SQ Deps: jsonwebtoken/node-forge/shell-quote
+6f41ca6 | Simeranjeet Sandhu | 2023-10-31 | Merge branch 'pipeline-fix' into 'master'
+c2b3085 | Simeranjeet Sandhu | 2023-10-30 | SQ Deps: jsonwebtoken/node-forge/shell-quote
+9b36f95 | Simeranjeet Sandhu | 2023-10-31 | Merge branch 'pipeline-fix' into 'master'
+2bccd54 | Simeranjeet Sandhu | 2023-10-30 | Regenerated lockfile
+d721d05 | Simeranjeet Sandhu | 2023-10-31 | Merge branch 'pipeline-fix' into 'master'
+c7462a4 | Simeranjeet Sandhu | 2023-10-30 | Regenerated lockfile
+34b865b | Simeranjeet Sandhu | 2023-10-31 | Merge branch 'pipeline-fix' into 'master'
+1f9170e | Simeranjeet Sandhu | 2023-10-30 | SQ Deps
+bfedf92 | Simeranjeet Sandhu | 2023-10-31 | Merge branch 'pipeline-fix' into 'master'
+3ecb80e | Simeranjeet Sandhu | 2023-10-30 | SQ Deps
+440d5be | Simeranjeet Sandhu | 2023-10-30 | Regenerated lockfile
+319dbbf | Simeranjeet Sandhu | 2023-10-31 | Merge branch 'pipeline-fix' into 'master'
+0717d63 | Simeranjeet Sandhu | 2023-10-30 | SQ Deps
+a7631a9 | Simeranjeet Sandhu | 2023-10-30 | Regenerated lockfile
+fe84e78 | Simeranjeet Sandhu | 2023-10-31 | Merge branch 'pipeline-fix' into 'master'
+ee6fa4a | Simeranjeet Sandhu | 2023-10-30 | SQ Deps
+58876e4 | Simeranjeet Sandhu | 2023-10-31 | Merge branch 'pipeline-fix' into 'master'
+3ebe837 | Simeranjeet Sandhu | 2023-10-30 | SQ Deps: jsonwebtoken/ajv
+663c513 | Simeranjeet Sandhu | 2023-10-31 | Merge branch 'pipeline-fix' into 'master'
+8d7a975 | Simeranjeet Sandhu | 2023-10-30 | SQ Deps: jsonwebtoken/ajv/ws
+422a633 | Simeranjeet Sandhu | 2023-10-31 | Merge branch 'pipeline-fix' into 'master'
+1cbfb3b | Simeranjeet Sandhu | 2023-10-30 | SQ Deps: shell-quote/browserslist/semver
+a6b4f4b | Simeranjeet Sandhu | 2023-10-27 | Merge branch 'pipeline-fix' into 'master'
+fdc783e | Simeranjeet Sandhu | 2023-10-27 | SQ Dep check - lock file yarn error, had to regnerate file
+e5aebaa | Simeranjeet Sandhu | 2023-10-27 | Merge branch 'pipeline-fix' into 'master'
+a7724da | Simeranjeet Sandhu | 2023-10-27 | SQ Dep check - added browserify to package.json/regnerated lock
+38e1629 | Simeranjeet Sandhu | 2023-10-27 | Merge branch 'pipeline-fix' into 'master'
+ccecf4b | Simeranjeet Sandhu | 2023-10-27 | SQ Dep check - Browserify-sign upgraded due to bug
+aea0750 | Simeranjeet Sandhu | 2023-10-27 | Merge branch 'pipeline-fix' into 'master'
+f06d8cd | Simeranjeet Sandhu | 2023-10-27 | SQ Dep check - Browserify-sign upgraded due to bug
+8808ded | Simeranjeet Sandhu | 2023-10-27 | Merge branch 'pipeline-fix' into 'master'
+f682e79 | Simeranjeet Sandhu | 2023-10-27 | SQ Dep check - Browserify-sign upgraded due to bug
+3237a28 | Simeranjeet Sandhu | 2023-10-27 | Merge branch 'pipeline-fix' into 'master'
+190dff2 | Simeranjeet Sandhu | 2023-10-27 | SQ Dep check - Browserify-sign upgraded due to bug
+0d96e1b | Simeranjeet Sandhu | 2023-10-27 | Merge branch 'pipeline-fix' into 'master'
+4f02506 | Simeranjeet Sandhu | 2023-10-27 | SQ Dep check - Browserify-sign upgraded due to bug
+881339f | Simeranjeet Sandhu | 2023-10-27 | Merge branch 'pipeline-fix' into 'master'
+f3c6759 | Simeranjeet Sandhu | 2023-10-27 | SQ: removed commented out code
+de345c8 | Simeranjeet Sandhu | 2023-10-18 | Merge branch 'pipeline-fix' into 'master'
+2371026 | Simeranjeet Sandhu | 2023-10-18 | Fixing unit tests: commenting out
+4bb7d69 | Simeranjeet Sandhu | 2023-10-18 | Merge branch 'pipeline-fix' into 'master'
+edbfbda | Simeranjeet Sandhu | 2023-10-18 | upgraded nginx base image to 1.5.2
+c54d79e | Simeranjeet Sandhu | 2023-10-18 | Merge branch 'unit-tests' into 'master'
+0644d47 | Simeranjeet Sandhu | 2023-10-18 | Commented out unit test
+63199c3 | Simeranjeet Sandhu | 2023-10-17 | Merge branch 'unit-tests' into 'master'
+01ef7ce | Simeranjeet Sandhu | 2023-10-17 | Fixed unit tests
+52d9666 | Simeranjeet Sandhu | 2023-10-17 | Merge branch 'unit-tests' into 'master'
+c1a3b24 | Simeranjeet Sandhu | 2023-10-17 | Fixed unit tests
+633ba98 | Simeranjeet Sandhu | 2023-10-17 | Merge branch 'unit-tests' into 'master'
+5ce6569 | Simeranjeet Sandhu | 2023-10-17 | Fixed unit tests
+e58da14 | Simeranjeet Sandhu | 2023-10-17 | Merge branch 'sq-deps' into 'master'
+9724f95 | Simeranjeet Sandhu | 2023-10-17 | upgraded base image to nodejs16.20.2
+4b2eb2f | Simeranjeet Sandhu | 2023-10-17 | Merge branch 'sq-deps' into 'master'
+e06fb4a | Simeranjeet Sandhu | 2023-10-17 | Sq Deps: semver 7.5.2
+58443ca | Simeranjeet Sandhu | 2023-10-17 | Merge branch 'sq-deps' into 'master'
+58ee971 | Simeranjeet Sandhu | 2023-10-17 | Sq Deps: browserslist 4.16.5
+f3df2b8 | Simeranjeet Sandhu | 2023-10-17 | Merge branch 'sq-deps' into 'master'
+2823c2a | Simeranjeet Sandhu | 2023-10-17 | Sq Deps: ws
+01e8b19 | Simeranjeet Sandhu | 2023-10-17 | Merge branch 'sq-deps' into 'master'
+c54fe1f | Simeranjeet Sandhu | 2023-10-17 | Sq Deps: jsonwebtoken 9.0.0
+6c9e9a5 | Simeranjeet Sandhu | 2023-10-17 | Merge branch 'sq-deps' into 'master'
+fa880ca | Simeranjeet Sandhu | 2023-10-17 | Sq Deps: ajv
+77b06f4 | Simeranjeet Sandhu | 2023-10-17 | Merge branch 'sq-deps' into 'master'
+f507cf2 | Simeranjeet Sandhu | 2023-10-17 | Sq Deps: ansi-html 0.0.8
+284a4b5 | Simeranjeet Sandhu | 2023-10-17 | Merge branch 'sq-deps' into 'master'
+8a3ff32 | Simeranjeet Sandhu | 2023-10-17 | Sq Deps: moment 2.29.4
+caf9c39 | Simeranjeet Sandhu | 2023-10-17 | Merge branch 'sq-deps' into 'master'
+1a512b3 | Simeranjeet Sandhu | 2023-10-17 | Sq Deps: minimatch 3.0.5
+7049563 | Simeranjeet Sandhu | 2023-10-17 | Merge branch 'sq-deps' into 'master'
+3704c89 | Simeranjeet Sandhu | 2023-10-17 | Sq Deps: glob-parent 5.1.2
+ba0af84 | Simeranjeet Sandhu | 2023-10-17 | Merge branch 'sq-deps' into 'master'
+4e3380e | Simeranjeet Sandhu | 2023-10-17 | Sq Deps: qs 6.5.3
+82067a3 | Simeranjeet Sandhu | 2023-10-17 | Merge branch 'sq-deps' into 'master'
+3680016 | Simeranjeet Sandhu | 2023-10-17 | Sq Deps: nth-check 2.0.1
+83f0aa7 | Simeranjeet Sandhu | 2023-10-17 | Merge branch 'sq-deps' into 'master'
+4c3ecd1 | Simeranjeet Sandhu | 2023-10-17 | Sq Deps: node-forge 1.3.0
+ca85336 | Simeranjeet Sandhu | 2023-10-17 | Merge branch 'sq-deps' into 'master'
+8186e71 | Simeranjeet Sandhu | 2023-10-17 | Sq Deps: ejs 3.1.7
+f4063d2 | Simeranjeet Sandhu | 2023-10-17 | Merge branch 'sq-deps' into 'master'
+a1bb40f | Simeranjeet Sandhu | 2023-10-17 | Sq Deps: loader-utils
+275be98 | Simeranjeet Sandhu | 2023-10-17 | Merge branch 'sq-deps' into 'master'
+c9a8a96 | Simeranjeet Sandhu | 2023-10-17 | Sq Deps: lodash
+11443e3 | Simeranjeet Sandhu | 2023-10-17 | Merge branch 'sq-deps' into 'master'
+f91ff51 | Simeranjeet Sandhu | 2023-10-17 | Sq Deps: immer 10.0.3
+dd27530 | Simeranjeet Sandhu | 2023-10-17 | Merge branch 'sq-deps' into 'master'
+e3beca7 | Simeranjeet Sandhu | 2023-10-17 | Sq Deps: shell-quote 1.7.3
+feb1545 | Simeranjeet Sandhu | 2023-10-17 | Merge branch 'sq-deps' into 'master'
+be92687 | Simeranjeet Sandhu | 2023-10-17 | Sq Deps: postcss - upgraded for sub deps
+1cb0301 | Simeranjeet Sandhu | 2023-10-17 | Merge branch 'sq-deps' into 'master'
+f99fd21 | Simeranjeet Sandhu | 2023-10-17 | Sq Deps: postcss
+90e7015 | Simeranjeet Sandhu | 2023-10-17 | Merge branch 'sq-deps' into 'master'
+1511e60 | Simeranjeet Sandhu | 2023-10-17 | Sq Deps: postcss
+58539c4 | Simeranjeet Sandhu | 2023-10-17 | Merge branch 'sq-deps' into 'master'
+d9799f8 | Simeranjeet Sandhu | 2023-10-17 | Sq Deps: regenerated lock file
+94430ce | Simeranjeet Sandhu | 2023-10-17 | Merge branch 'sq-deps' into 'master'
+21c91d6 | Simeranjeet Sandhu | 2023-10-17 | Sq Deps: downgraded autoprefixer for postcss 8
+b9f5ada | Simeranjeet Sandhu | 2023-10-17 | Merge branch 'sq-deps' into 'master'
+3286d7c | Simeranjeet Sandhu | 2023-10-17 | Sq Deps: postcss
+dcd48ad | Simeranjeet Sandhu | 2023-10-17 | Merge branch 'sq-deps' into 'master'
+ffb8867 | Simeranjeet Sandhu | 2023-10-17 | Sq Deps: postcss
+2253d70 | Simeranjeet Sandhu | 2023-10-17 | Merge branch 'sq-deps' into 'master'
+3a52094 | Simeranjeet Sandhu | 2023-10-17 | Sq Deps: postcss
+4066842 | Simeranjeet Sandhu | 2023-10-16 | Merge branch 'sq-deps' into 'master'
+969e576 | Simeranjeet Sandhu | 2023-10-16 | Sq Deps: postcss upgraded version testing
+4ada569 | Simeranjeet Sandhu | 2023-10-16 | Merge branch 'sq-deps' into 'master'
+e3a96fe | Simeranjeet Sandhu | 2023-10-16 | Sq Deps: postcss upgraded version testing
+22919e0 | Simeranjeet Sandhu | 2023-10-16 | Merge branch 'sq-deps' into 'master'
+7da454a | Simeranjeet Sandhu | 2023-10-16 | Sq Deps: postcss upgraded version testing
+1a16315 | Simeranjeet Sandhu | 2023-10-16 | Merge branch 'sq-deps' into 'master'
+9df0d75 | Simeranjeet Sandhu | 2023-10-16 | regenerated lock file
+305ee5d | Simeranjeet Sandhu | 2023-10-16 | Merge branch 'sq-deps' into 'master'
+efa4401 | Simeranjeet Sandhu | 2023-10-16 | Fixing postcss build image error
+9564e76 | Simeranjeet Sandhu | 2023-10-16 | Merge branch 'sq-deps' into 'master'
+30ff9ad | Simeranjeet Sandhu | 2023-10-16 | sq deps: node-forge
+8fc8666 | Simeranjeet Sandhu | 2023-10-16 | Merge branch 'sq-deps' into 'master'
+50f6a74 | Simeranjeet Sandhu | 2023-10-16 | sq deps: ejs
+3e7e8ba | Simeranjeet Sandhu | 2023-10-16 | Merge branch 'sq-deps' into 'master'
+2d4c031 | Simeranjeet Sandhu | 2023-10-16 | sq deps: lodash
+297210f | Simeranjeet Sandhu | 2023-10-16 | Merge branch 'sq-deps' into 'master'
+5933b2c | Simeranjeet Sandhu | 2023-10-16 | sq deps: immer
+43b1ab6 | Simeranjeet Sandhu | 2023-10-16 | Merge branch 'sq-deps' into 'master'
+9ff2a33 | Simeranjeet Sandhu | 2023-10-16 | sq deps: loader-utils
+c6aeedd | Simeranjeet Sandhu | 2023-10-16 | Merge branch 'sq-deps' into 'master'
+a53df37 | Simeranjeet Sandhu | 2023-10-16 | sq deps: loader-utils
+28bf340 | Simeranjeet Sandhu | 2023-10-16 | Merge branch 'sq-deps' into 'master'
+0455663 | Simeranjeet Sandhu | 2023-10-16 | sq deps: postcss/shell-quote
+07d52cb | Simeranjeet Sandhu | 2023-10-16 | Merge branch 'sq-deps' into 'master'
+c10e239 | Simeranjeet Sandhu | 2023-10-16 | regenerated lock
+0518849 | Simeranjeet Sandhu | 2023-10-16 | Merge branch 'sq-deps' into 'master'
+95a4e8a | Simeranjeet Sandhu | 2023-10-16 | regenerated lock
+30ab564 | Simeranjeet Sandhu | 2023-10-16 | Merge branch 'sq-deps' into 'master'
+c0bce10 | Simeranjeet Sandhu | 2023-10-16 | updated package.json
+604447f | Simeranjeet Sandhu | 2023-10-16 | Merge branch 'sq-deps' into 'master'
+93e5fbb | Simeranjeet Sandhu | 2023-10-16 | SQ deps - postcss
+eb4f199 | Simeranjeet Sandhu | 2023-10-16 | Merge branch 'sq-deps' into 'master'
+73c9b68 | Simeranjeet Sandhu | 2023-10-16 | Modified yarn.lock to satisfy all SQ Dep Checks
+76b2257 | Simeranjeet Sandhu | 2023-10-16 | Merge branch 'sq-deps' into 'master'
+c2539f1 | Simeranjeet Sandhu | 2023-10-16 | upgraded postcss
+793b8fb | Simeranjeet Sandhu | 2023-10-16 | regenerated lock
+19ab7ac | Simeranjeet Sandhu | 2023-10-16 | Merge branch 'sq-deps' into 'master'
+273c3d2 | Simeranjeet Sandhu | 2023-10-16 | updated package.json
+4c03d4e | Simeranjeet Sandhu | 2023-10-16 | Merge branch 'sq-deps' into 'master'
+5bb334a | Simeranjeet Sandhu | 2023-10-16 | regenerated lock file
+8f3dc78 | Simeranjeet Sandhu | 2023-10-16 | Merge branch 'sq-deps' into 'master'
+eb6f9d2 | Simeranjeet Sandhu | 2023-10-16 | re-ran yarn install
+c80c8cd | Simeranjeet Sandhu | 2023-10-16 | Merge branch 'sq-deps' into 'master'
+15485a6 | Simeranjeet Sandhu | 2023-10-16 | Added resolutions to package.json
+09dfc93 | Simeranjeet Sandhu | 2023-10-11 | Merge branch 'sq-deps' into 'master'
+7153130 | Simeranjeet Sandhu | 2023-10-11 | updated xms-ui
+8a1388b | Simeranjeet Sandhu | 2023-10-11 | Merge branch 'sq-deps' into 'master'
+c3b013b | Simeranjeet Sandhu | 2023-10-11 | SQ Deps: ejs/shell-quote
+692e3f3 | Simeranjeet Sandhu | 2023-10-11 | Merge branch 'sq-deps' into 'master'
+c9d8f87 | Simeranjeet Sandhu | 2023-10-11 | SQ Dependencies
+8c3f58e | Simeranjeet Sandhu | 2023-10-11 | Merge branch 'sq-deps' into 'master'
+1202f14 | Simeranjeet Sandhu | 2023-10-11 | Regenerated lockfile
+b46fc9f | Simeranjeet Sandhu | 2023-10-11 | Merge branch 'sq-deps' into 'master'
+0c58dc4 | Simeranjeet Sandhu | 2023-10-11 | Regenerated lockfile
+1d2288a | Simeranjeet Sandhu | 2023-10-11 | Merge branch 'sq-deps' into 'master'
+8d94083 | Simeranjeet Sandhu | 2023-10-11 | ejs
+4847ac6 | Simeranjeet Sandhu | 2023-10-11 | Merge branch 'sq-deps' into 'master'
+7a2361e | Simeranjeet Sandhu | 2023-10-11 | shell-quote
+ae5d842 | Simeranjeet Sandhu | 2023-10-11 | Merge branch 'sq-deps' into 'master'
+871b145 | Simeranjeet Sandhu | 2023-10-11 | Regenerated lockfile
+3c81eca | Simeranjeet Sandhu | 2023-10-11 | Merge branch 'sq-deps' into 'master'
+fabb6fe | Simeranjeet Sandhu | 2023-10-11 | Fixing build image
+2d319e4 | Simeranjeet Sandhu | 2023-10-11 | Merge branch 'sq-deps' into 'master'
+3d90fe2 | Simeranjeet Sandhu | 2023-10-11 | Fixing build image/lint stage
+9e4c14d | Simeranjeet Sandhu | 2023-10-11 | Merge branch 'sq-deps' into 'master'
+23d0a08 | Simeranjeet Sandhu | 2023-10-11 | Regenerated lockfile
+e9e8558 | Simeranjeet Sandhu | 2023-10-11 | Merge branch 'sq-deps' into 'master'
+5ec4a65 | Simeranjeet Sandhu | 2023-10-11 | reverted changes to package.json
+29dec83 | Simeranjeet Sandhu | 2023-10-11 | Merge branch 'sq-deps' into 'master'
+4013dc6 | Simeranjeet Sandhu | 2023-10-11 | Regenerated lockfile
+4592302 | Simeranjeet Sandhu | 2023-10-11 | Merge branch 'sq-deps' into 'master'
+a754b87 | Simeranjeet Sandhu | 2023-10-11 | Regenerated lockfile
+7cf3f33 | Simeranjeet Sandhu | 2023-10-11 | Regenerated lockfile
+819590a | Simeranjeet Sandhu | 2023-10-11 | Merge branch 'sq-deps' into 'master'
+db58fdc | Simeranjeet Sandhu | 2023-10-11 | package versions updated for SQ dep checks
+11327a9 | Simeranjeet Sandhu | 2023-10-11 | Merge branch 'sq-deps' into 'master'
+8db4d3e | Simeranjeet Sandhu | 2023-10-11 | Regenerated lockfile
+6333947 | Simeranjeet Sandhu | 2023-10-11 | Merge branch 'sq-deps' into 'master'
+7a61757 | Simeranjeet Sandhu | 2023-10-11 | package versions updated for SQ dep checks
+4e4550a | Simeranjeet Sandhu | 2023-10-11 | Merge branch 'sq-deps' into 'master'
+78031f0 | Simeranjeet Sandhu | 2023-10-11 | Troubleshoot SQ dep checks
+e6f25e1 | Simeranjeet Sandhu | 2023-10-11 | Merge branch 'sq-deps' into 'master'
+f7c4b38 | Simeranjeet Sandhu | 2023-10-10 | npm audit fix on SQ dep checks
+9fa958d | Simeranjeet Sandhu | 2023-10-11 | Merge branch 'sq-deps' into 'master'
+d6482cb | Simeranjeet Sandhu | 2023-10-10 | Regenerated lockfile
+45e35ff | Simeranjeet Sandhu | 2023-10-11 | Merge branch 'sq-deps' into 'master'
+538f274 | Simeranjeet Sandhu | 2023-10-10 | Sq Deps Latest
+f96e3ac | Simeranjeet Sandhu | 2023-10-10 | Sq Deps Latest - Resolved most packages
+5221fc0 | Simeranjeet Sandhu | 2023-10-10 | Merge branch 'sq-deps' into 'master'
+f4ab38d | Simeranjeet Sandhu | 2023-10-10 | Resolving postcss bug
+37482be | Simeranjeet Sandhu | 2023-10-10 | Merge branch 'sq-deps' into 'master'
+3e820cf | Simeranjeet Sandhu | 2023-10-10 | Resolving postcss bug
+a1c7eb7 | Simeranjeet Sandhu | 2023-10-10 | Merge branch 'sq-deps' into 'master'
+5075bcb | Simeranjeet Sandhu | 2023-10-10 | Resolving postcss bug
+96b7a91 | Simeranjeet Sandhu | 2023-10-10 | Merge branch 'sq-deps' into 'master'
+d27b752 | Simeranjeet Sandhu | 2023-10-10 | Resolving postcss bug
+1077967 | Simeranjeet Sandhu | 2023-10-10 | Merge branch 'sq-deps' into 'master'
+6270012 | Simeranjeet Sandhu | 2023-10-10 | Resolving postcss bug
+b479c7d | Simeranjeet Sandhu | 2023-10-10 | Merge branch 'sq-deps' into 'master'
+3cb6bff | Simeranjeet Sandhu | 2023-10-10 | Resolving postcss bug
+f164932 | Simeranjeet Sandhu | 2023-10-10 | Merge branch 'sq-deps' into 'master'
+bbf150f | Simeranjeet Sandhu | 2023-10-10 | Fixed frozen lockfile
+d3a03bd | Simeranjeet Sandhu | 2023-10-10 | Merge branch 'sq-deps' into 'master'
+9bb2605 | Simeranjeet Sandhu | 2023-10-10 | Sq Deps: postcss
+e64ccf7 | Simeranjeet Sandhu | 2023-10-10 | Merge branch 'sq-deps' into 'master'
+c0d8e89 | Simeranjeet Sandhu | 2023-10-10 | Sq Deps: postcss
+2a7e4b0 | Simeranjeet Sandhu | 2023-10-10 | Merge branch 'sq-deps' into 'master'
+4bb1c71 | Simeranjeet Sandhu | 2023-10-10 | Sq Deps: postcss
+d28efec | Simeranjeet Sandhu | 2023-10-10 | Merge branch 'sq-deps' into 'master'
+2e701d7 | Simeranjeet Sandhu | 2023-10-10 | Sq Deps: postcss
+8014950 | Simeranjeet Sandhu | 2023-10-10 | Merge branch 'sq-deps' into 'master'
+e12b8e5 | Simeranjeet Sandhu | 2023-10-10 | Sq Deps: postcss
+9591e06 | Simeranjeet Sandhu | 2023-10-10 | Merge branch 'sq-deps' into 'master'
+55b7dc7 | Simeranjeet Sandhu | 2023-10-10 | Sq Deps: postcss
+d0ddf8e | Simeranjeet Sandhu | 2023-10-10 | Merge branch 'sq-deps' into 'master'
+1748433 | Simeranjeet Sandhu | 2023-10-10 | Sq Deps: postcss
+2972407 | Simeranjeet Sandhu | 2023-10-10 | Merge branch 'sq-deps' into 'master'
+e66a424 | Simeranjeet Sandhu | 2023-10-10 | Sq Deps: postcss
+0c29c54 | Simeranjeet Sandhu | 2023-10-10 | Merge branch 'sq-deps' into 'master'
+27ae100 | Simeranjeet Sandhu | 2023-10-10 | Sq Deps: postcss
+edc7c88 | Simeranjeet Sandhu | 2023-10-10 | Merge branch 'sq-deps' into 'master'
+8cb8555 | Simeranjeet Sandhu | 2023-10-10 | Sq Deps: postcss
+460fd9f | Simeranjeet Sandhu | 2023-10-10 | Merge branch 'sq-deps' into 'master'
+815f818 | Simeranjeet Sandhu | 2023-10-10 | Sq Deps: postcss
+503880c | Simeranjeet Sandhu | 2023-10-10 | Merge branch 'sq-deps' into 'master'
+ec6a5cc | Simeranjeet Sandhu | 2023-10-10 | Sq Deps: postcss
+f74cfde | Simeranjeet Sandhu | 2023-10-10 | Merge branch 'sq-deps' into 'master'
+5fab518 | Simeranjeet Sandhu | 2023-10-10 | Sq Deps: postcss
+73781e9 | Simeranjeet Sandhu | 2023-10-10 | Merge branch 'sq-deps' into 'master'
+d8ecd35 | Simeranjeet Sandhu | 2023-10-10 | Sq Deps: postcss
+f2e81bf | Simeranjeet Sandhu | 2023-10-10 | Merge branch 'sq-deps' into 'master'
+2af05b3 | Simeranjeet Sandhu | 2023-10-10 | Regenerating lockfile
+d1b2fda | Simeranjeet Sandhu | 2023-10-10 | Merge branch 'sq-deps' into 'master'
+fd9628e | Simeranjeet Sandhu | 2023-10-09 | Updated postcss
+a83e52f | Simeranjeet Sandhu | 2023-10-10 | Merge branch 'sq-deps' into 'master'
+607ffe9 | Simeranjeet Sandhu | 2023-10-09 | Updated postcss
+1726b45 | Simeranjeet Sandhu | 2023-10-09 | Merge branch 'sq-deps' into 'master'
+dd758ab | Simeranjeet Sandhu | 2023-10-09 | Fixing SQ deps
+b6527cd | Simeranjeet Sandhu | 2023-10-09 | Merge branch 'sq-deps' into 'master'
+26e1772 | Simeranjeet Sandhu | 2023-10-09 | Regenerated yarn.lock
+65e0bff | Simeranjeet Sandhu | 2023-10-09 | Sq Deps: postcss
+8c9d5bc | Simeranjeet Sandhu | 2023-10-09 | Merge branch 'sq-deps' into 'master'
+3d166bf | Simeranjeet Sandhu | 2023-10-09 | Sq Deps: postcss
+572b5fb | Simeranjeet Sandhu | 2023-10-09 | Merge branch 'sq-deps' into 'master'
+d1c2f21 | Simeranjeet Sandhu | 2023-10-09 | Fixing SQ deps
+86f0bdd | Simeranjeet Sandhu | 2023-10-06 | Merge branch 'sq-deps' into 'master'
+e0c79b6 | Simeranjeet Sandhu | 2023-10-06 | Sq Deps
+862ff67 | Simeranjeet Sandhu | 2023-10-06 | Merge branch 'sq-deps' into 'master'
+535d280 | Simeranjeet Sandhu | 2023-10-06 | SQ Deps:ansi-html
+9541669 | Simeranjeet Sandhu | 2023-10-06 | Merge branch 'sq-deps' into 'master'
+4eb9431 | Simeranjeet Sandhu | 2023-10-06 | SQ Deps:ansi-html/ejs
+bb6c508 | Simeranjeet Sandhu | 2023-10-06 | Merge branch 'sq-deps' into 'master'
+9759d3a | Simeranjeet Sandhu | 2023-10-06 | SQ Deps:ansi-html/moment
+27f9833 | Simeranjeet Sandhu | 2023-10-06 | Merge branch 'sq-deps' into 'master'
+4c7a9ea | Simeranjeet Sandhu | 2023-10-06 | SQ Deps:nth-check
+6225067 | Simeranjeet Sandhu | 2023-10-06 | Merge branch 'sq-deps' into 'master'
+d9256c3 | Simeranjeet Sandhu | 2023-10-06 | SQ Deps:qs/glob-parent
+d5127e4 | Simeranjeet Sandhu | 2023-10-06 | Merge branch 'sq-deps' into 'master'
+a8bdc83 | Simeranjeet Sandhu | 2023-10-06 | SQ Deps:ejs/minimatch
+dd129cc | Simeranjeet Sandhu | 2023-10-06 | Merge branch 'sq-deps' into 'master'
+bc74d6b | Simeranjeet Sandhu | 2023-10-06 | SQ Deps:ejs/minimatch
+2534b56 | Simeranjeet Sandhu | 2023-10-06 | Merge branch 'sq-deps' into 'master'
+4801f5e | Simeranjeet Sandhu | 2023-10-06 | SQ Deps: immer/loader-utils
+eeea047 | Simeranjeet Sandhu | 2023-10-06 | Merge branch 'sq-deps' into 'master'
+687d964 | Simeranjeet Sandhu | 2023-10-06 | SQ Deps: node-forge
+be6f84e | Simeranjeet Sandhu | 2023-10-06 | Merge branch 'sq-deps' into 'master'
+e2f2306 | Simeranjeet Sandhu | 2023-10-06 | SQ Deps: node-forge
+4cf0733 | Simeranjeet Sandhu | 2023-10-06 | Merge branch 'sq-deps' into 'master'
+a0a4cc2 | Simeranjeet Sandhu | 2023-10-06 | SQ Deps: lodash
+d801500 | Simeranjeet Sandhu | 2023-10-06 | Merge branch 'sq-deps' into 'master'
+8d2823b | Simeranjeet Sandhu | 2023-10-06 | SQ Deps: shell quote 1.7.3
+08e9d92 | Simeranjeet Sandhu | 2023-10-06 | Merge branch 'sq-deps' into 'master'
+008aba2 | Simeranjeet Sandhu | 2023-10-06 | Regenerated lockfile to fix dep check failure
+1caf187 | Simeranjeet Sandhu | 2023-10-06 | Merge branch 'sq-deps' into 'master'
+7ff35a5 | Simeranjeet Sandhu | 2023-10-06 | Fixing SQ deps
+4b10118 | Simeranjeet Sandhu | 2023-10-06 | Merge branch 'sq-deps' into 'master'
+155ab78 | Simeranjeet Sandhu | 2023-10-06 | SQ Dep Checks - lodash/immer/shell-quote/loader-utils/ejs
+21bdbc5 | Simeranjeet Sandhu | 2023-10-06 | Merge branch 'sq-deps' into 'master'
+c8ab414 | Simeranjeet Sandhu | 2023-10-06 | SQ Dep Checks - lodash/immer/shell-quote/loader-utils/ejs
+6d6977a | Simeranjeet Sandhu | 2023-10-05 | Merge branch 'sq-deps' into 'master'
+5816abd | Simeranjeet Sandhu | 2023-10-05 | Fixed yarn install error - regenerated lockfile
+3200293 | Simeranjeet Sandhu | 2023-10-05 | Merge branch 'sq-deps' into 'master'
+2d73a12 | Simeranjeet Sandhu | 2023-10-05 | Fixed yarn install error - regenerated lockfile
+34f9c59 | Simeranjeet Sandhu | 2023-10-05 | Merge branch 'sq-deps' into 'master'
+b5f2c90 | Simeranjeet Sandhu | 2023-10-05 | SQ Deps: postcss 8.4.31
+316388c | Simeranjeet Sandhu | 2023-10-05 | Merge branch 'sq-deps' into 'master'
+2c226ad | Simeranjeet Sandhu | 2023-10-05 | SQ Deps: jsonwebtoken - reverting changes
+11af4b8 | Simeranjeet Sandhu | 2023-10-05 | Merge branch 'sq-deps' into 'master'
+b5b9b6c | Simeranjeet Sandhu | 2023-10-05 | SQ Deps: jsonwebtoken 9.0.0
+3a3cdcd | Simeranjeet Sandhu | 2023-10-05 | SQ Deps: jsonwebtoken 9.0.0 - reverting changes
+8482fb7 | Simeranjeet Sandhu | 2023-10-05 | Merge branch 'sq-deps' into 'master'
+fadcb13 | Simeranjeet Sandhu | 2023-10-05 | SQ Deps: jsonwebtoken 9.0
+01248ee | Simeranjeet Sandhu | 2023-10-05 | Merge branch 'sq-deps' into 'master'
+aa3afc0 | Simeranjeet Sandhu | 2023-10-05 | SQ Deps: jsonwebtoken 9.0.0
+74a2b81 | Simeranjeet Sandhu | 2023-10-05 | Merge branch 'sq-deps' into 'master'
+5b333a8 | Simeranjeet Sandhu | 2023-10-05 | SQ Deps: jsonwebtoken 9.0.0 - reverting changes
+2f2d25b | Simeranjeet Sandhu | 2023-10-05 | Merge branch 'sq-deps' into 'master'
+2b2700d | Simeranjeet Sandhu | 2023-10-05 | SQ Deps: jsonwebtoken 9.0.0
+d5e66cb | Simeranjeet Sandhu | 2023-10-05 | Merge branch 'sq-deps' into 'master'
+3c07449 | Simeranjeet Sandhu | 2023-10-05 | SQ Deps: jsonwebtoken 9.0.0 - reverting changes
+b193fef | Simeranjeet Sandhu | 2023-10-05 | Merge branch 'sq-deps' into 'master'
+909dc05 | Simeranjeet Sandhu | 2023-10-05 | SQ Deps: jsonwebtoken 9.0.0
+cc94c69 | Simeranjeet Sandhu | 2023-10-05 | Merge branch 'dep-checks' into 'master'
+6af1b75 | Simeranjeet Sandhu | 2023-10-05 | SQ deps: ws 6.2.2
+4fab8d1 | Simeranjeet Sandhu | 2023-10-05 | Merge branch 'dep-checks' into 'master'
+5c5a717 | Simeranjeet Sandhu | 2023-10-05 | SQ deps: ws 6.2.2
+8877f70 | Simeranjeet Sandhu | 2023-10-05 | Merge branch 'dep-checks' into 'master'
+0fb8f92 | Simeranjeet Sandhu | 2023-10-05 | SQ deps: ws 6.2.2
+a88e86b | Simeranjeet Sandhu | 2023-10-05 | Merge branch 'dep-checks' into 'master'
+24b053e | Simeranjeet Sandhu | 2023-10-05 | SQ deps: browserslist - revert changes
+84d7873 | Simeranjeet Sandhu | 2023-10-05 | Merge branch 'dep-checks' into 'master'
+8788573 | Simeranjeet Sandhu | 2023-10-05 | SQ deps: browserslist - latest changes
+eca069f | Simeranjeet Sandhu | 2023-10-05 | Merge branch 'dep-checks' into 'master'
+f3bb535 | Simeranjeet Sandhu | 2023-10-05 | SQ deps: browserslist - revert changes
+781fc01 | Simeranjeet Sandhu | 2023-10-05 | Merge branch 'dep-checks' into 'master'
+1880a40 | Simeranjeet Sandhu | 2023-10-05 | SQ deps: browserslist - latest changes
+df2d1ba | Simeranjeet Sandhu | 2023-10-05 | Merge branch 'dep-checks' into 'master'
+eb2e5b6 | Simeranjeet Sandhu | 2023-10-05 | SQ deps: browserslist - latest changes
+620bc4f | Simeranjeet Sandhu | 2023-10-05 | Merge branch 'dep-checks' into 'master'
+6df84ea | Simeranjeet Sandhu | 2023-10-05 | SQ deps: browserslist - latest changes
+8429b6e | Simeranjeet Sandhu | 2023-10-05 | Merge branch 'dep-checks' into 'master'
+e0464d1 | Simeranjeet Sandhu | 2023-10-05 | SQ deps: browserslist 4.16.5 - reverting changes
+e501299 | Simeranjeet Sandhu | 2023-10-05 | Merge branch 'dep-checks' into 'master'
+3664b7b | Simeranjeet Sandhu | 2023-10-05 | SQ deps: browserslist 4.16.5 - latest changes
+d9e4616 | Simeranjeet Sandhu | 2023-10-05 | Merge branch 'dep-checks' into 'master'
+541c5c7 | Simeranjeet Sandhu | 2023-10-05 | SQ deps: browserslist 4.16.5 - latest changes
+7a1149e | Simeranjeet Sandhu | 2023-10-05 | Merge branch 'dep-checks' into 'master'
+7002688 | Simeranjeet Sandhu | 2023-10-05 | SQ deps: browserslist 4.16.5 - latest changes
+23a0c06 | Simeranjeet Sandhu | 2023-10-05 | Merge branch 'dep-checks' into 'master'
+35c946a | Simeranjeet Sandhu | 2023-10-05 | SQ deps: browserslist 4.16.5 - latest changes
+b9c9af0 | Simeranjeet Sandhu | 2023-10-05 | Merge branch 'dep-checks' into 'master'
+d99c76d | Simeranjeet Sandhu | 2023-10-05 | SQ deps: browserslist 4.16.5
+a365136 | Simeranjeet Sandhu | 2023-10-05 | Merge branch 'dep-checks' into 'master'
+2b60638 | Simeranjeet Sandhu | 2023-10-05 | SQ deps: ajv 6.12.3 - latest changes
+2e6126f | Simeranjeet Sandhu | 2023-10-05 | Merge branch 'dep-checks' into 'master'
+35989df | Simeranjeet Sandhu | 2023-10-05 | SQ deps: ajv 6.12.3 - latest changes
+a052e70 | Simeranjeet Sandhu | 2023-10-05 | Merge branch 'dep-checks' into 'master'
+6df84a1 | Simeranjeet Sandhu | 2023-10-05 | SQ deps: ajv 6.12.3 - reverting changes
+10b8a0c | Simeranjeet Sandhu | 2023-10-05 | Merge branch 'dep-checks' into 'master'
+a0105cd | Simeranjeet Sandhu | 2023-10-05 | SQ deps: ajv 6.12.3 - reverting changes
+4a5ad68 | Simeranjeet Sandhu | 2023-10-05 | Merge branch 'dep-checks' into 'master'
+bba68a3 | Simeranjeet Sandhu | 2023-10-05 | SQ deps: ajv 6.12.3
+12b7a68 | Simeranjeet Sandhu | 2023-10-05 | Merge branch 'dep-checks' into 'master'
+edf9322 | Simeranjeet Sandhu | 2023-10-05 | SQ deps: semver 7.5.2 - reverting changes
+74d2ae4 | Simeranjeet Sandhu | 2023-10-05 | Merge branch 'dep-checks' into 'master'
+1bdeb54 | Simeranjeet Sandhu | 2023-10-05 | SQ deps: semver 7.5.2
+57da7c2 | Simeranjeet Sandhu | 2023-10-05 | Merge branch 'dep-checks' into 'master'
+f470a50 | Simeranjeet Sandhu | 2023-10-05 | SQ deps: moment 2.29.4
+774c006 | Simeranjeet Sandhu | 2023-10-05 | Merge branch 'dep-checks' into 'master'
+5fbec69 | Simeranjeet Sandhu | 2023-10-05 | SQ deps: minimatch 3.0.5
+1c8c4fc | Simeranjeet Sandhu | 2023-10-05 | Merge branch 'dep-checks' into 'master'
+15497a4 | Simeranjeet Sandhu | 2023-10-05 | SQ deps: glob-parent 5.1.2
+388ff21 | Simeranjeet Sandhu | 2023-10-05 | Merge branch 'dep-checks' into 'master'
+149ef44 | Simeranjeet Sandhu | 2023-10-05 | SQ deps: ansi-html 0.0.8
+0b90202 | Simeranjeet Sandhu | 2023-10-05 | Merge branch 'dep-checks' into 'master'
+a2c409e | Simeranjeet Sandhu | 2023-10-05 | SQ deps: qs 6.10.3
+92e07bf | Simeranjeet Sandhu | 2023-10-05 | Merge branch 'dep-checks' into 'master'
+ba2cf31 | Simeranjeet Sandhu | 2023-10-05 | SQ deps: nth-check 2.0.1
+b3afeb8 | Simeranjeet Sandhu | 2023-10-05 | Merge branch 'dep-checks' into 'master'
+55c1b0d | Simeranjeet Sandhu | 2023-10-05 | SQ deps: node-forge 1.3.0
+03b59cd | Simeranjeet Sandhu | 2023-10-05 | Merge branch 'dep-checks' into 'master'
+5b2fe06 | Simeranjeet Sandhu | 2023-10-05 | SQ deps: lodash
+df26153 | Simeranjeet Sandhu | 2023-10-05 | Merge branch 'dep-checks' into 'master'
+5e767bd | Simeranjeet Sandhu | 2023-10-05 | SQ deps: shell-quote 1.7.3
+1184dd6 | Simeranjeet Sandhu | 2023-10-05 | Merge branch 'dep-checks' into 'master'
+d4a75e0 | Simeranjeet Sandhu | 2023-10-05 | SQ deps: loader-utils 2.0.4
+fd1c4c0 | Simeranjeet Sandhu | 2023-10-05 | Merge branch 'dep-checks' into 'master'
+1abe2be | Simeranjeet Sandhu | 2023-10-05 | SQ deps: immer 10.0.3
+bccf68c | Simeranjeet Sandhu | 2023-10-04 | Merge branch 'dep-checks' into 'master'
+6274f5f | Simeranjeet Sandhu | 2023-10-04 | SQ deps: ejs 3.1.6
+8d9c8d8 | Simeranjeet Sandhu | 2023-10-04 | Merge branch 'dep-checks' into 'master'
+8a39f77 | Simeranjeet Sandhu | 2023-10-04 | Regenerated lock file
+4ae670b | Simeranjeet Sandhu | 2023-10-04 | Merge branch 'dep-checks' into 'master'
+747ff73 | Simeranjeet Sandhu | 2023-10-04 | regenerate lock file
+ead4312 | Simeranjeet Sandhu | 2023-10-04 | Merge branch 'dep-checks' into 'master'
+a9128dc | Simeranjeet Sandhu | 2023-10-04 | SQ Deps: node-forge/moment
+8bfb7eb | Simeranjeet Sandhu | 2023-10-04 | Merge branch 'dep-checks' into 'master'
+57122c8 | Simeranjeet Sandhu | 2023-10-04 | SQ Deps: node-forge/moment
+7285111 | Simeranjeet Sandhu | 2023-10-04 | Merge branch 'dep-checks' into 'master'
+09f3fa3 | Simeranjeet Sandhu | 2023-10-04 | SQ Deps: node-forge/moment
+7aafbc1 | Simeranjeet Sandhu | 2023-10-04 | Merge branch 'dep-checks' into 'master'
+86024e3 | Simeranjeet Sandhu | 2023-10-04 | Updating Dep versions
+bcb4d9d | Simeranjeet Sandhu | 2023-10-04 | Merge branch 'dep-checks' into 'master'
+295384b | Simeranjeet Sandhu | 2023-10-04 | Updating Dep versions
+f471394 | Simeranjeet Sandhu | 2023-10-04 | Merge branch 'dep-checks' into 'master'
+7121757 | Simeranjeet Sandhu | 2023-10-04 | SQ Dep Check: loader-utils
+cd1ace0 | Simeranjeet Sandhu | 2023-10-04 | Merge branch 'dep-checks' into 'master'
+3f420eb | Simeranjeet Sandhu | 2023-10-04 | SQ Dep Check: Updated Lodash 4.17.11
+11e7d78 | Simeranjeet Sandhu | 2023-10-04 | Merge branch 'dep-checks' into 'master'
+6c55349 | Simeranjeet Sandhu | 2023-10-04 | SQ Dep Check: Updated Lodash 4.17.11
+40e264c | Simeranjeet Sandhu | 2023-10-04 | Merge branch 'dep-checks' into 'master'
+f0ad478 | Simeranjeet Sandhu | 2023-10-04 | SQ Dep Check: Lodash
+30aa304 | Simeranjeet Sandhu | 2023-10-04 | Merge branch 'dep-checks' into 'master'
+4ea9ff1 | Simeranjeet Sandhu | 2023-10-04 | SQ Dep Check: shell-quote
+b98e7a1 | Simeranjeet Sandhu | 2023-10-04 | Merge branch 'dep-checks' into 'master'
+2521cbc | Simeranjeet Sandhu | 2023-10-04 | SQ Dep Check - immer version corrected
+aeef181 | Simeranjeet Sandhu | 2023-10-04 | Merge branch 'dep-checks' into 'master'
+1129b92 | Simeranjeet Sandhu | 2023-10-04 | SQ Dep Check - immer
+7b3ad3c | Simeranjeet Sandhu | 2023-10-03 | Merge branch 'dep-checks' into 'master'
+e09571c | Simeranjeet Sandhu | 2023-10-03 | dep checks - immer
+b00f521 | Simeranjeet Sandhu | 2023-10-03 | Merge branch 'dep-checks' into 'master'
+0a58a4b | Simeranjeet Sandhu | 2023-10-03 | dep checks - immer
+e36644f | Simeranjeet Sandhu | 2023-10-03 | Merge branch 'dep-checks' into 'master'
+ce215e8 | Simeranjeet Sandhu | 2023-10-03 | Fixing Dep Checks - continued
+9140fd3 | Simeranjeet Sandhu | 2023-10-03 | Merge branch 'dep-checks' into 'master'
+f236db6 | Simeranjeet Sandhu | 2023-10-03 | Updating shell-quote
+685ab38 | Simeranjeet Sandhu | 2023-10-03 | Merge branch 'dep-checks' into 'master'
+9c658dd | Simeranjeet Sandhu | 2023-10-03 | regenerated lock file
+4431e31 | Simeranjeet Sandhu | 2023-10-03 | Merge branch 'dep-checks' into 'master'
+58c24ff | Simeranjeet Sandhu | 2023-10-03 | dep check - shell-quote
+c21d2ae | Simeranjeet Sandhu | 2023-10-03 | Merge branch 'dep-checks' into 'master'
+f36d216 | Simeranjeet Sandhu | 2023-10-03 | regenerated lock file
+afab6a4 | Simeranjeet Sandhu | 2023-10-03 | Merge branch 'dep-checks' into 'master'
+c2fd30d | Simeranjeet Sandhu | 2023-10-03 | Dep Checks - upgrading immer
+95334d4 | Jon Smith | 2023-10-03 | P1MDOHD-17857: remove extra shell-quote dep in yarn.lock
+483fea3 | Simeranjeet Sandhu | 2023-09-28 | Merge branch 'dep-checks' into 'master'
+c1e7912 | Simeranjeet Sandhu | 2023-09-28 | SQ Deps - shell-quote
+c8d6ec2 | Simeranjeet Sandhu | 2023-09-28 | Merge branch 'dep-checks' into 'master'
+411f2de | Simeranjeet Sandhu | 2023-09-28 | SQ Deps - Lodash
+9a290db | Simeranjeet Sandhu | 2023-09-28 | Merge branch 'dep-checks' into 'master'
+a0eb73a | Simeranjeet Sandhu | 2023-09-28 | SQ Deps - Lodash
+b4dc480 | Simeranjeet Sandhu | 2023-09-28 | Merge branch 'dep-checks' into 'master'
+69a50be | Simeranjeet Sandhu | 2023-09-28 | Fixing Lockfile issue
+6dee6e0 | Simeranjeet Sandhu | 2023-09-28 | Merge branch 'dep-checks' into 'master'
+7d468be | Simeranjeet Sandhu | 2023-09-28 | Fixing Lockfile issue
+e28bff6 | Simeranjeet Sandhu | 2023-09-28 | Merge branch 'dep-checks' into 'master'
+8873750 | Simeranjeet Sandhu | 2023-09-28 | Fixing Lockfile issue
+4ba023f | Simeranjeet Sandhu | 2023-09-27 | Merge branch 'dep-checks' into 'master'
+61d344f | Simeranjeet Sandhu | 2023-09-27 | SQ Deps - Regenerated lock/immer/shell-quote
+373d767 | Simeranjeet Sandhu | 2023-09-27 | Merge branch 'dep-checks' into 'master'
+a329c61 | Simeranjeet Sandhu | 2023-09-27 | SQ Deps - immer/ejs
+4a37c1e | Simeranjeet Sandhu | 2023-09-27 | Merge branch 'dep-checks' into 'master'
+feba316 | Simeranjeet Sandhu | 2023-09-27 | SQ Deps
+7cea872 | Simeranjeet Sandhu | 2023-09-27 | Merge branch 'dep-checks' into 'master'
+50cd20f | Simeranjeet Sandhu | 2023-09-27 | SQ Deps
+c494caa | Simeranjeet Sandhu | 2023-09-27 | Merge branch 'dep-checks' into 'master'
+c2736bd | Simeranjeet Sandhu | 2023-09-27 | SQ Deps
+fa7dcbb | Simeranjeet Sandhu | 2023-09-27 | Merge branch 'dep-checks' into 'master'
+841d8bc | Simeranjeet Sandhu | 2023-09-27 | SQ Deps: shell-quote
+842df97 | Simeranjeet Sandhu | 2023-09-27 | Merge branch 'dep-checks' into 'master'
+da9e9d2 | Simeranjeet Sandhu | 2023-09-27 | Fixing Lockfile issue
+518fe64 | Simeranjeet Sandhu | 2023-09-27 | Merge branch 'dep-checks' into 'master'
+65b3530 | Simeranjeet Sandhu | 2023-09-27 | SQ Deps - Lodash/EJS
+45fcb72 | Simeranjeet Sandhu | 2023-09-27 | SQ Deps - shell-quote/ejs/immer/loader-utils/lodash
+a569fb6 | Simeranjeet Sandhu | 2023-09-27 | SQ Deps - shell-quote/ejs/immer/loader-utils/lodash
+d92f026 | Simeranjeet Sandhu | 2023-09-27 | SQ Deps - shell-quote/ejs/immer/loader-utils/lodash
+b991b9a | Simeranjeet Sandhu | 2023-09-20 | Merge branch 'dep-checks' into 'master'
+07b06d6 | Simeranjeet Sandhu | 2023-09-20 | Regenerated yarn.lock
+cb1fc8a | Simeranjeet Sandhu | 2023-04-26 | Merge branch 'dep-checks' into 'master'
+e57016f | ssandhu | 2023-04-26 | SQ dep check - ws/qs
+5e31569 | Simeranjeet Sandhu | 2023-04-25 | Merge branch 'dep-checks' into 'master'
+a42ad90 | ssandhu | 2023-04-25 | SQ dep check - node-forge/minimatch/nth-check/ajv/browserslist
+c699b00 | Simeranjeet Sandhu | 2023-04-25 | Merge branch 'dep-checks' into 'master'
+24a4a30 | ssandhu | 2023-04-25 | SQ dep check - jsonwebtoken
+3e71f3e | Simeranjeet Sandhu | 2023-04-25 | Merge branch 'dep-checks' into 'master'
+6fafa87 | ssandhu | 2023-04-25 | SQ dep check - loader-utils/ejs/shell-quote
+c4ea80f | Simeranjeet Sandhu | 2023-04-25 | Merge branch 'dep-checks' into 'master'
+58e3b52 | ssandhu | 2023-04-25 | SQ dep check - ansi-html/immer/glob-parent/moment
+ae0d4f2 | Simeranjeet Sandhu | 2023-04-25 | Merge branch 'dep-checks' into 'master'
+7a0a5a6 | ssandhu | 2023-04-25 | SQ dep checks - lodash
+da918dd | Simeranjeet Sandhu | 2023-04-25 | Merge branch 'dep-checks' into 'master'
+d21cc5d | ssandhu | 2023-04-25 | sq dep checks
+97f0a68 | Simeranjeet Sandhu | 2023-04-25 | Merge branch 'dep-checks' into 'master'
+1ac48c5 | ssandhu | 2023-04-25 | sq dep checks
+d5ff79f | Simeranjeet Sandhu | 2023-04-25 | Merge branch 'dep-checks' into 'master'
+9e4e002 | ssandhu | 2023-04-25 | ejs dep resolved for SQ
+7a8f90f | Simeranjeet Sandhu | 2023-04-24 | Merge branch 'dep-checks' into 'master'
+71c04f6 | ssandhu | 2023-04-24 | Fixing Sonar Deps
+ee217ab | Simeranjeet Sandhu | 2023-04-24 | Merge branch 'image-update' into 'master'
+96001df | ssandhu | 2023-04-24 | updated nginx to latest version
+b909fbf | Michael Son | 2023-04-11 | Merge branch 'update_image' into 'master'
+7bf8d86 | JDTobin | 2023-04-11 | update nodejs image
+2ccafb5 | Michael Son | 2023-04-11 | Merge branch 'renovate/configure' into 'master'
+dcb5f2d | Michael Son | 2023-04-11 | Merge branch 'sonar_fixes' into 'master'
+80e39c2 | JDTobin | 2023-04-11 | fix dep
+2b4b2dd | Michael Son | 2023-04-11 | Merge branch 'sonar_fixes' into 'master'
+e99c3c2 | JDTobin | 2023-04-10 | fix  test
+da676c5 | Michael Son | 2023-04-10 | Merge branch 'sonar_fixes' into 'master'
+10145b1 | JDTobin | 2023-04-10 | fix hook access
+7533dcc | Renovate Bot | 2023-04-01 | renovate: add renovate.json
+a2e7fa9 | Michael Son | 2023-03-30 | Merge branch 'sonar_fixes' into 'master'
+8c8f516 | JDTobin | 2023-03-30 | fix import
+66460d9 | Michael Son | 2023-03-30 | Merge branch 'sonar_fixes' into 'master'
+276c57c | JDTobin | 2023-03-30 | wrap context
+5e8e6d0 | Michael Son | 2023-03-28 | Merge branch 'sonar_fixes' into 'master'
+44dbe7e | JDTobin | 2023-03-28 | more dep changes
+7a2267b | Michael Son | 2023-03-28 | Merge branch 'sonar_fixes' into 'master'
+319ebbb | JDTobin | 2023-03-28 | fix syntax error
+3ba62d3 | Michael Son | 2023-03-28 | Merge branch 'sonar_fixes' into 'master'
+df65734 | JDTobin | 2023-03-28 | finish dep fixes
+425e76c | Michael Son | 2023-03-28 | Merge branch 'sonar_fixes' into 'master'
+d87e89f | JDTobin | 2023-03-28 | update dep names
+b2b4c33 | Michael Son | 2023-03-28 | Merge branch 'sonar_fixes' into 'master'
+22ab638 | JDTobin | 2023-03-28 | updated deps
+94e547e | Michael Son | 2023-03-27 | Merge branch 'sonar_fixes' into 'master'
+5260e97 | JDTobin | 2023-03-27 | remove unused imports remove indexes from keys fix regex
+9a3b21d | Simeranjeet Sandhu | 2022-09-07 | Merge branch 'origin/code-update' into 'master'
+69ff1a2 | ssandhu | 2022-09-07 | nginx listener changed
+fcd2ed9 | Simeranjeet Sandhu | 2022-09-07 | Merge branch 'origin/code-update' into 'master'
+e268c4c | ssandhu | 2022-09-07 | Updated Dockerfile
+7d25c7e | Simeranjeet Sandhu | 2022-09-07 | Merge branch 'origin/code-update' into 'master'
+511ac2a | ssandhu | 2022-09-07 | Updated Dockerfile
+0df52a3 | Simeranjeet Sandhu | 2022-09-07 | Merge branch 'origin/code-update' into 'master'
+5232c39 | ssandhu | 2022-09-07 | Updated Dockerfile
+b19601c | Simeranjeet Sandhu | 2022-09-07 | Merge branch 'origin/code-update' into 'master'
+ae53fa7 | ssandhu | 2022-09-07 | Updated Dockerfile
+a25930d | Simeranjeet Sandhu | 2022-09-06 | Merge branch 'origin/code-update' into 'master'
+9fba69b | ssandhu | 2022-09-06 | updated Dockerfile
+6aa8171 | Simeranjeet Sandhu | 2022-09-06 | Merge branch 'origin/code-update' into 'master'
+e106fb0 | ssandhu | 2022-09-06 | updated Dockerfile
+2a2cd0f | Simeranjeet Sandhu | 2022-09-06 | Merge branch 'origin/code-update' into 'master'
+ea01d2e | ssandhu | 2022-09-06 | updated Dockerfile
+3c41b1b | Simeranjeet Sandhu | 2022-09-06 | Merge branch 'origin/code-update' into 'master'
+3621d79 | ssandhu | 2022-09-06 | updated Dockerfile
+0f7a745 | Simeranjeet Sandhu | 2022-09-06 | Merge branch 'jdtobin-master-patch-44057' into 'master'
+872d0ec | James Tobin | 2022-09-06 | Update Dockerfile
+865481b | Simeranjeet Sandhu | 2022-09-06 | Merge branch 'origin/code-update' into 'master'
+6b2a6b4 | ssandhu | 2022-09-06 | Updated Dockerfile
+894c986 | ssandhu | 2022-09-06 | Updated Dockerfile
+bb02eb4 | Simeranjeet Sandhu | 2022-09-06 | Merge branch 'origin/code-update' into 'master'
+a733d41 | ssandhu | 2022-09-06 | Updated Dockerfile
+8f00d2f | Simeranjeet Sandhu | 2022-09-06 | Merge branch 'origin/code-update' into 'master'
+2d10341 | ssandhu | 2022-09-06 | Updated Dockerfile
+b0c0813 | Simeranjeet Sandhu | 2022-09-06 | Merge branch 'origin/code-update' into 'master'
+b3df939 | ssandhu | 2022-09-06 | Updated Dockerfile
+396e885 | Simeranjeet Sandhu | 2022-09-06 | Merge branch 'origin/code-update' into 'master'
+c35a229 | ssandhu | 2022-09-06 | Updated Dockerfile
+281b3a2 | ssandhu | 2022-09-06 | Merge branch 'master' of https://code.il2.dso.mil/adl-ousd/ecc/ecc-openlxp-xms-ui into origin/code-update
+9442668 | Simeranjeet Sandhu | 2022-09-06 | Merge branch 'jdtobin-master-patch-28045' into 'master'
+4881903 | ssandhu | 2022-09-06 | modified Dockerfile
+0def4d6 | James Tobin | 2022-09-06 | Update Dockerfile
+292afdc | Simeranjeet Sandhu | 2022-09-03 | Merge branch 'origin/code-update' into 'master'
+2642850 | ssandhu | 2022-09-02 | fixing twistlock deps
+8d46690 | Simeranjeet Sandhu | 2022-09-03 | Merge branch 'origin/code-update' into 'master'
+ac626d9 | ssandhu | 2022-09-02 | fixing twistlock deps
+3534e77 | Simeranjeet Sandhu | 2022-09-03 | Merge branch 'origin/code-update' into 'master'
+bf07bfb | ssandhu | 2022-09-02 | fixing twistlock deps
+1d431d7 | Simeranjeet Sandhu | 2022-09-03 | Merge branch 'origin/code-update' into 'master'
+696b74d | ssandhu | 2022-09-02 | fixing twistlock deps
+b72e6aa | Simeranjeet Sandhu | 2022-09-03 | Merge branch 'origin/code-update' into 'master'
+4d7b0db | ssandhu | 2022-09-02 | modified yarn.lock for dependencies
+7c72c62 | Simeranjeet Sandhu | 2022-09-03 | Merge branch 'origin/code-update' into 'master'
+b5cc000 | ssandhu | 2022-09-02 | modified yarn.lock for dependencies
+a04d6ce | Simeranjeet Sandhu | 2022-09-02 | Merge branch 'origin/code-update' into 'master'
+8fa553d | ssandhu | 2022-09-02 | modified yarn.lock for dependencies
+3894f49 | Simeranjeet Sandhu | 2022-09-02 | Merge branch 'origin/code-update' into 'master'
+913d1e5 | ssandhu | 2022-09-02 | Fixing dependencies
+caa159e | Simeranjeet Sandhu | 2022-09-02 | Merge branch 'origin/code-update' into 'master'
+5c3f17d | ssandhu | 2022-09-02 | Fixing dependencies
+6a42044 | Simeranjeet Sandhu | 2022-09-02 | Merge branch 'origin/code-update' into 'master'
+bf2ee35 | ssandhu | 2022-09-02 | lockfile updated
+2405f75 | Simeranjeet Sandhu | 2022-09-02 | Merge branch 'origin/code-update' into 'master'
+f3ff18c | ssandhu | 2022-09-02 | updated lockfile versions
+e6c0108 | Simeranjeet Sandhu | 2022-09-02 | Merge branch 'origin/code-update' into 'master'
+5bb8d9d | ssandhu | 2022-09-02 | updated lockfile versions
+8a4cc9a | ssandhu | 2022-09-02 | updated lockfile versions
+970d60a | Simeranjeet Sandhu | 2022-09-02 | Merge branch 'origin/code-update' into 'master'
+4db4c43 | ssandhu | 2022-09-02 | sonar deps being fixed
+09b2c21 | Simeranjeet Sandhu | 2022-09-02 | Merge branch 'origin/code-update' into 'master'
+90d48ff | ssandhu | 2022-09-02 | updated package.json
+162b66d | Simeranjeet Sandhu | 2022-09-02 | Merge branch 'origin/code-update' into 'master'
+37d4972 | ssandhu | 2022-09-02 | updated package.json
+e9a297b | Simeranjeet Sandhu | 2022-09-02 | Merge branch 'origin/code-update' into 'master'
+99fb4c3 | ssandhu | 2022-09-02 | updated package.json & sonar issue
+e83a930 | Simeranjeet Sandhu | 2022-09-02 | Merge branch 'origin/code-update' into 'master'
+6241a3a | ssandhu | 2022-09-02 | regenerated lockfile
+cca5b4b | Simeranjeet Sandhu | 2022-09-02 | Merge branch 'origin/code-update' into 'master'
+d1ab15e | ssandhu | 2022-09-02 | Sonar findings/dependencies resolved
+0680f15 | Simeranjeet Sandhu | 2022-09-02 | Merge branch 'origin/code-update' into 'master'
+d3df9bf | ssandhu | 2022-09-02 | Resolving Unit Tests
+296cb1c | Simeranjeet Sandhu | 2022-09-02 | Merge branch 'origin/code-update' into 'master'
+257584b | ssandhu | 2022-09-01 | resolving unit tests
+c537a6c | Simeranjeet Sandhu | 2022-09-02 | Merge branch 'origin/code-update' into 'master'
+bbc869d | ssandhu | 2022-09-01 | updated yarn lockfile
+bec9505 | Simeranjeet Sandhu | 2022-09-02 | Merge branch 'origin/code-update' into 'master'
+932bb8d | ssandhu | 2022-09-01 | reverted to old commit to fix unit tests
+2127c9f | Simeranjeet Sandhu | 2022-09-02 | Merge branch 'origin/code-update' into 'master'
+572413b | ssandhu | 2022-09-01 | changes reverted to fix unit tests
+97c6bc4 | Simeranjeet Sandhu | 2022-09-02 | Merge branch 'origin/code-update' into 'master'
+5902223 | ssandhu | 2022-09-01 | regenerated lockfile
+b401ab1 | Simeranjeet Sandhu | 2022-09-02 | Merge branch 'origin/code-update' into 'master'
+f4b4faf | ssandhu | 2022-09-01 | changes reverted to fix unit tests
+030ceb1 | Simeranjeet Sandhu | 2022-09-02 | Merge branch 'origin/code-update' into 'master'
+b70d272 | ssandhu | 2022-09-01 | changes reverted to fix unit tests
+6f36afa | Simeranjeet Sandhu | 2022-09-02 | Merge branch 'origin/code-update' into 'master'
+02c9a14 | ssandhu | 2022-09-01 | changes reverted to fix unit tests
+da32311 | Simeranjeet Sandhu | 2022-09-02 | Merge branch 'origin/code-update' into 'master'
+481f56a | ssandhu | 2022-09-01 | code reverted to fix unit tests
+79bcda3 | Simeranjeet Sandhu | 2022-09-02 | Merge branch 'origin/code-update' into 'master'
+3638c77 | ssandhu | 2022-09-01 | changes reverted for unit tests
+c04d7ce | Simeranjeet Sandhu | 2022-09-02 | Merge branch 'origin/code-update' into 'master'
+ad4d50d | ssandhu | 2022-09-01 | changes reverted for unit tests
+06bfbf9 | Simeranjeet Sandhu | 2022-09-02 | Merge branch 'origin/code-update' into 'master'
+f688ecc | ssandhu | 2022-09-01 | test file added again
+5015f32 | Simeranjeet Sandhu | 2022-09-02 | Merge branch 'origin/code-update' into 'master'
+71a297e | ssandhu | 2022-09-01 | lockfile updated
+59972d4 | Simeranjeet Sandhu | 2022-09-02 | Merge branch 'origin/code-update' into 'master'
+0f8aa24 | ssandhu | 2022-09-01 | lockfile updated
+c07ab94 | Simeranjeet Sandhu | 2022-09-01 | Merge branch 'origin/code-update' into 'master'
+27aa112 | ssandhu | 2022-09-01 | lockfile updated
+32669fb | Simeranjeet Sandhu | 2022-09-01 | Merge branch 'origin/code-update' into 'master'
+3a9ec83 | ssandhu | 2022-09-01 | updated lockfile
+01f54fb | Simeranjeet Sandhu | 2022-09-01 | Merge branch 'origin/code-update' into 'master'
+56fac54 | ssandhu | 2022-09-01 | updated lockfile
+9d590f0 | Simeranjeet Sandhu | 2022-09-01 | Merge branch 'origin/code-update' into 'master'
+922d51d | ssandhu | 2022-09-01 | updated lockfile
+2c852b9 | Simeranjeet Sandhu | 2022-09-01 | Merge branch 'origin/code-update' into 'master'
+31aa664 | ssandhu | 2022-09-01 | updated lockfile
+337bfdb | Simeranjeet Sandhu | 2022-09-01 | Merge branch 'origin/code-update' into 'master'
+bc072f6 | ssandhu | 2022-09-01 | updated prompts version in lockfile
+692247f | Simeranjeet Sandhu | 2022-09-01 | Merge branch 'origin/code-update' into 'master'
+35b3bf0 | ssandhu | 2022-09-01 | updated lockfile
+53d68d9 | Simeranjeet Sandhu | 2022-09-01 | Merge branch 'origin/code-update' into 'master'
+a66d1b5 | ssandhu | 2022-09-01 | updated lockfile
+7d56514 | Simeranjeet Sandhu | 2022-09-01 | Merge branch 'origin/code-update' into 'master'
+3b144a7 | ssandhu | 2022-09-01 | updated lockfile
+175eb77 | Simeranjeet Sandhu | 2022-09-01 | Merge branch 'origin/code-update' into 'master'
+49f61a3 | ssandhu | 2022-09-01 | lockfile updated
+6afd3f0 | Simeranjeet Sandhu | 2022-09-01 | Merge branch 'origin/code-update' into 'master'
+9d626ac | ssandhu | 2022-09-01 | lockfile updated
+9f28e1f | Simeranjeet Sandhu | 2022-09-01 | Merge branch 'origin/code-update' into 'master'
+ca9a09e | ssandhu | 2022-09-01 | lockfile updated
+baedde4 | Simeranjeet Sandhu | 2022-09-01 | Merge branch 'origin/code-update' into 'master'
+7651e6c | ssandhu | 2022-09-01 | updated lockfile
+83fddff | Simeranjeet Sandhu | 2022-09-01 | Merge branch 'origin/code-update' into 'master'
+f70eedd | ssandhu | 2022-09-01 | yarn lockfile updated
+7012935 | Simeranjeet Sandhu | 2022-09-01 | Merge branch 'origin/code-update' into 'master'
+a144cc4 | ssandhu | 2022-09-01 | yarn lockfile updated
+99d1665 | Simeranjeet Sandhu | 2022-09-01 | Merge branch 'origin/code-update' into 'master'
+8c451d8 | ssandhu | 2022-09-01 | yarn lockfile updated
+d022612 | Simeranjeet Sandhu | 2022-09-01 | Merge branch 'origin/code-update' into 'master'
+2260af3 | ssandhu | 2022-09-01 | updated dependencies
+bf1082c | Simeranjeet Sandhu | 2022-09-01 | Merge branch 'origin/code-update' into 'master'
+c1d376b | ssandhu | 2022-09-01 | Dockerfile updated
+4b6e7ee | Simeranjeet Sandhu | 2022-09-01 | Merge branch 'origin/code-update' into 'master'
+5a08ff8 | ssandhu | 2022-09-01 | dependencies updated for twistlock
+480c875 | Simeranjeet Sandhu | 2022-09-01 | Merge branch 'origin/code-update' into 'master'
+21e00e5 | ssandhu | 2022-09-01 | Dockerfile syntax fix
+185ef06 | Simeranjeet Sandhu | 2022-09-01 | Merge branch 'origin/code-update' into 'master'
+e7557ff | ssandhu | 2022-09-01 | files for twistlock removed
+317172a | Simeranjeet Sandhu | 2022-09-01 | Merge branch 'origin/code-update' into 'master'
+bf0837a | ssandhu | 2022-09-01 | nodejs image version reverted
+adf3b5d | Simeranjeet Sandhu | 2022-09-01 | Merge branch 'origin/code-update' into 'master'
+f581bb6 | ssandhu | 2022-09-01 | files removed in Dockerfile for twistlock
+d2dc271 | Simeranjeet Sandhu | 2022-09-01 | Merge branch 'origin/code-update' into 'master'
+04e8e20 | ssandhu | 2022-09-01 | Dockerfile modified
+cb3ba98 | ssandhu | 2022-09-01 | Dockerfile modified
+b6ca073 | Simeranjeet Sandhu | 2022-09-01 | Merge branch 'jdtobin-master-patch-04069' into 'master'
+02ce0db | James Tobin | 2022-09-01 | Update Dockerfile
+81d0cdd | James Tobin | 2022-09-01 | Update Dockerfile
+659e942 | Simeranjeet Sandhu | 2022-08-31 | Merge branch 'origin/code-update' into 'master'
+9642e7c | ssandhu | 2022-08-31 | user corrected in Dockerfile
+c91c2fe | Simeranjeet Sandhu | 2022-08-31 | Merge branch 'origin/code-update' into 'master'
+a28662e | ssandhu | 2022-08-31 | user corrected in Dockerfile
+8d54856 | Simeranjeet Sandhu | 2022-08-31 | Merge branch 'origin/code-update' into 'master'
+7093f83 | ssandhu | 2022-08-31 | Dependencies fixed
+b6a7c77 | Simeranjeet Sandhu | 2022-08-31 | Merge branch 'origin/code-update' into 'master'
+8677e0c | ssandhu | 2022-08-31 | Dependencies fixed
+e5d68cb | Simeranjeet Sandhu | 2022-08-31 | Merge branch 'origin/code-update' into 'master'
+192dc16 | ssandhu | 2022-08-31 | Dependencies fixed
+db90380 | Simeranjeet Sandhu | 2022-08-31 | Merge branch 'origin/code-update' into 'master'
+ce0c120 | ssandhu | 2022-08-31 | Dependencies fixed
+fffcfb1 | Simeranjeet Sandhu | 2022-08-31 | Merge branch 'origin/code-update' into 'master'
+2d50390 | ssandhu | 2022-08-31 | Dependencies fixed
+1b8f331 | Simeranjeet Sandhu | 2022-08-31 | Merge branch 'origin/code-update' into 'master'
+6f43b8b | ssandhu | 2022-08-31 | Dependencies fixed
+eaa2ee8 | Simeranjeet Sandhu | 2022-08-31 | Merge branch 'origin/code-update' into 'master'
+8154c7e | ssandhu | 2022-08-31 | Dependencies fixed
+28ee416 | Simeranjeet Sandhu | 2022-08-31 | Merge branch 'origin/code-update' into 'master'
+881e6cb | ssandhu | 2022-08-31 | Dependencies fixed
+59f084b | Simeranjeet Sandhu | 2022-08-31 | Merge branch 'origin/code-update' into 'master'
+2cfa3dc | ssandhu | 2022-08-31 | lockfile fixed
+3f0ce86 | Simeranjeet Sandhu | 2022-08-31 | Merge branch 'origin/code-update' into 'master'
+b4f3308 | ssandhu | 2022-08-31 | new dependencies resolved
+de3ec7d | Simeranjeet Sandhu | 2022-08-31 | Merge branch 'origin/code-update' into 'master'
+9354cf7 | ssandhu | 2022-08-31 | regenerated lockfile
+914485d | Simeranjeet Sandhu | 2022-08-31 | Merge branch 'origin/code-update' into 'master'
+159bb34 | ssandhu | 2022-08-31 | new lockfile
+1f5c333 | Simeranjeet Sandhu | 2022-08-31 | Merge branch 'origin/code-update' into 'master'
+b3500d0 | ssandhu | 2022-08-31 | sonar issues/dependencies fixed
+59e8538 | Simeranjeet Sandhu | 2022-08-31 | Merge branch 'origin/code-update' into 'master'
+881918a | ssandhu | 2022-08-31 | Sonar findings resolved
+a3aba35 | Simeranjeet Sandhu | 2022-08-31 | Merge branch 'origin/code-update' into 'master'
+787c76c | ssandhu | 2022-08-31 | test file added
+a0de2e8 | Simeranjeet Sandhu | 2022-08-31 | Merge branch 'origin/code-update' into 'master'
+5d1a6e1 | ssandhu | 2022-08-31 | Sonar findings update
+7f809ca | Simeranjeet Sandhu | 2022-08-31 | Merge branch 'origin/code-update' into 'master'
+bfcc8f4 | ssandhu | 2022-08-31 | updated sonar issues
+192eecb | Simeranjeet Sandhu | 2022-08-31 | Merge branch 'origin/code-update' into 'master'
+31b42ce | ssandhu | 2022-08-31 | updated sonar issues
+61a0f55 | Simeranjeet Sandhu | 2022-08-30 | Merge branch 'origin/code-update' into 'master'
+a5cb8e8 | ssandhu | 2022-08-30 | Sonarqube findings fixed
+6f30bb7 | Simeranjeet Sandhu | 2022-08-30 | Merge branch 'origin/code-update' into 'master'
+331c72c | ssandhu | 2022-08-30 | Additional sonar findings fixed
+b709ba2 | Simeranjeet Sandhu | 2022-08-30 | Merge branch 'origin/code-update' into 'master'
+92c17db | ssandhu | 2022-08-30 | regenerated lockfile
+4edfb33 | Simeranjeet Sandhu | 2022-08-30 | Merge branch 'origin/code-update' into 'master'
+0c34d30 | ssandhu | 2022-08-30 | additional sonar findings fixed
+f6e4253 | Simeranjeet Sandhu | 2022-08-30 | Merge branch 'origin/code-update' into 'master'
+cdee33a | ssandhu | 2022-08-30 | Sonarqube findings fixed
+4e5efe4 | Simeranjeet Sandhu | 2022-08-30 | Merge branch 'origin/code-update' into 'master'
+fc52b38 | ssandhu | 2022-08-30 | dependency updated
+1afd9f8 | Simeranjeet Sandhu | 2022-08-30 | Merge branch 'origin/code-update' into 'master'
+02cb167 | ssandhu | 2022-08-30 | dependencies updated
+937690c | Simeranjeet Sandhu | 2022-08-30 | Merge branch 'origin/code-update' into 'master'
+948d538 | ssandhu | 2022-08-30 | regenerated lockfile
+4a20754 | Simeranjeet Sandhu | 2022-08-30 | Merge branch 'origin/code-update' into 'master'
+fe4f59e | ssandhu | 2022-08-30 | dependency added to packages.json
+471b491 | Simeranjeet Sandhu | 2022-08-30 | Merge branch 'origin/code-update' into 'master'
+201dfaa | ssandhu | 2022-08-30 | Unit tests fix
+a5cf2f7 | Simeranjeet Sandhu | 2022-08-30 | Merge branch 'origin/code-update' into 'master'
+e9a92f2 | ssandhu | 2022-08-30 | packages.json updated for lint/unit testing
+fccdb3a | Simeranjeet Sandhu | 2022-08-30 | Merge branch 'origin/code-update' into 'master'
+bf6ce09 | ssandhu | 2022-08-30 | Updated Dockerfile
+3448650 | Simeranjeet Sandhu | 2022-08-30 | Merge branch 'origin/code-update' into 'master'
+f476668 | ssandhu | 2022-08-30 | test coverage increased
+c9f43fb | Simeranjeet Sandhu | 2022-08-29 | Merge branch 'origin/code-update' into 'master'
+afb42cc | ssandhu | 2022-08-29 | Sonar findings being resolved
+735bd70 | Simeranjeet Sandhu | 2022-08-29 | Merge branch 'origin/code-update' into 'master'
+1a36b72 | ssandhu | 2022-08-29 | files omitted from coverage
+aef3867 | Simeranjeet Sandhu | 2022-08-29 | Merge branch 'origin/code-update' into 'master'
+1c5e72a | ssandhu | 2022-08-29 | Sonar findings fixed
+3a03442 | Simeranjeet Sandhu | 2022-08-29 | Merge branch 'origin/code-update' into 'master'
+1869bf8 | ssandhu | 2022-08-29 | Sonar findings fixed
+cccdbbe | Simeranjeet Sandhu | 2022-08-29 | Merge branch 'origin/code-update' into 'master'
+c2e3d85 | ssandhu | 2022-08-29 | coverage directory changed
+48459af | Simeranjeet Sandhu | 2022-08-29 | Merge branch 'origin/code-update' into 'master'
+48767c9 | ssandhu | 2022-08-29 | updated dependencies
+91000ef | Simeranjeet Sandhu | 2022-08-29 | Merge branch 'origin/code-update' into 'master'
+d52c337 | ssandhu | 2022-08-29 | updated dependencies
+7af3b7d | Simeranjeet Sandhu | 2022-08-29 | Merge branch 'origin/code-update' into 'master'
+4f45fb8 | ssandhu | 2022-08-29 | updated dependencies
+00491fd | Simeranjeet Sandhu | 2022-08-29 | Merge branch 'origin/code-update' into 'master'
+be5ad1a | ssandhu | 2022-08-29 | dependencies fixed
+6b85b43 | Simeranjeet Sandhu | 2022-08-29 | Merge branch 'xms-ui-code-update' into 'master'
+2c46c4e | ssandhu | 2022-08-29 | regenerated lockfile
+ec1a7ac | Simeranjeet Sandhu | 2022-08-29 | Merge branch 'xms-ui-code-update' into 'master'
+2a0e7c2 | ssandhu | 2022-08-29 | Sonarqube findings resolved
+9b50ae4 | ssandhu | 2022-08-29 | Dependency fix
+381503d | Simeranjeet Sandhu | 2022-08-26 | Merge branch 'xms-ui-code-update' into 'master'
+69e880d | ssandhu | 2022-08-26 | updated yarn.lock
+1cc561c | Simeranjeet Sandhu | 2022-08-26 | Merge branch 'xms-ui-code-update' into 'master'
+de97c15 | ssandhu | 2022-08-26 | removed authcontext.test
+0325e62 | Simeranjeet Sandhu | 2022-08-26 | Merge branch 'xms-ui-code-update' into 'master'
+b863abf | ssandhu | 2022-08-26 | updated nodejs image
+1f6bfc0 | Simeranjeet Sandhu | 2022-08-19 | Merge branch 'xms-ui-code-update' into 'master'
+e211d9f | ssandhu | 2022-08-19 | fixing unit testing
+0438b68 | Simeranjeet Sandhu | 2022-08-19 | Merge branch 'xms-ui-code-update' into 'master'
+603e11c | ssandhu | 2022-08-19 | Fixing unit tests
+02616a5 | Simeranjeet Sandhu | 2022-08-19 | Merge branch 'xms-ui-code-update' into 'master'
+ad794b1 | ssandhu | 2022-08-19 | bugfix/testing
+813bc9c | Simeranjeet Sandhu | 2022-08-19 | Merge branch 'xms-ui-code-update' into 'master'
+3cbe9eb | ssandhu | 2022-08-18 | code update from github
+aff3375 | Simeranjeet Sandhu | 2022-08-18 | Merge branch 'xms-ui-code-update' into 'master'
+d475183 | ssandhu | 2022-08-18 | updated package.json
+730b1a4 | Simeranjeet Sandhu | 2022-08-18 | Merge branch 'xms-ui-code-update' into 'master'
+2b40b81 | ssandhu | 2022-08-18 | code updated from github
+b5c5bb6 | Simeranjeet Sandhu | 2022-08-18 | Merge branch 'xms-ui-code-update' into 'master'
+a3acb2b | ssandhu | 2022-08-18 | regenerated lockfile
+d2e1dab | Simeranjeet Sandhu | 2022-08-17 | Merge branch 'xms-ui-code-update' into 'master'
+a6f2e83 | ssandhu | 2022-08-17 | unit test cases fixed
+b371dec | Simeranjeet Sandhu | 2022-07-13 | Merge branch 'xms-ui-code-update' into 'master'
+58525b2 | ssandhu | 2022-07-13 | updated dependencies
+adc98c8 | Simeranjeet Sandhu | 2022-07-11 | Merge branch 'xms-ui-code-update' into 'master'
+099d27b | ssandhu | 2022-07-11 | subdependencies updated
+b108b98 | Simeranjeet Sandhu | 2022-06-29 | Merge branch 'xms-ui-code-update' into 'master'
+ecc0079 | ssandhu | 2022-06-29 | Resolving Sonarscan issues
+1bd832f | Simeranjeet Sandhu | 2022-06-28 | Merge branch 'xms-ui-code-update' into 'master'
+e6646d8 | ssandhu | 2022-06-28 | Updated dependency checks
+ce45adf | Simeranjeet Sandhu | 2022-06-28 | Merge branch 'xms-ui-code-update' into 'master'
+7d0d5a7 | ssandhu | 2022-06-28 | Updated dependencies
+c01747e | Simeranjeet Sandhu | 2022-06-28 | Merge branch 'xms-ui-code-update' into 'master'
+f476894 | ssandhu | 2022-06-28 | Updated dependencies
+8365bb9 | Simeranjeet Sandhu | 2022-06-28 | Merge branch 'xms-ui-code-update' into 'master'
+1f4d049 | ssandhu | 2022-06-28 | Updated dependencies
+e4a0e9f | Simeranjeet Sandhu | 2022-06-28 | Merge branch 'xms-ui-code-update' into 'master'
+a10d27f | ssandhu | 2022-06-28 | Updated dependencies
+5201a5d | Simeranjeet Sandhu | 2022-06-28 | Merge branch 'xms-ui-code-update' into 'master'
+2e61b09 | ssandhu | 2022-06-28 | Updated package.json
+1b33262 | Simeranjeet Sandhu | 2022-06-28 | Merge branch 'xms-ui-code-update' into 'master'
+8cff28f | ssandhu | 2022-06-28 | Updated package.json
+bf35d4d | Simeranjeet Sandhu | 2022-06-28 | Merge branch 'xms-ui-code-update' into 'master'
+fb6946d | ssandhu | 2022-06-28 | Updated dependencies
+38ea3d4 | Simeranjeet Sandhu | 2022-06-28 | Merge branch 'xms-ui-code-update' into 'master'
+046d181 | ssandhu | 2022-06-28 | Updated package.json
+0e575e0 | Simeranjeet Sandhu | 2022-06-28 | Merge branch 'xms-ui-code-update' into 'master'
+1ecf742 | ssandhu | 2022-06-27 | regenerated lockfile
+e540d2c | Simeranjeet Sandhu | 2022-06-28 | Merge branch 'xms-ui-code-update' into 'master'
+dbac92f | ssandhu | 2022-06-27 | added lint
+9a5625e | Simeranjeet Sandhu | 2022-06-28 | Merge branch 'xms-ui-code-update' into 'master'
+948b3de | ssandhu | 2022-06-27 | code updated
+00ba4d8 | Simeranjeet Sandhu | 2022-06-28 | Merge branch 'xms-ui-code-update' into 'master'
+fe7de73 | ssandhu | 2022-06-27 | regenerated lockfile
+670d68f | Simeranjeet Sandhu | 2022-06-28 | Merge branch 'xms-ui-code-update' into 'master'
+ebe0a6d | ssandhu | 2022-06-27 | updated dependency checks
+92b077a | Simeranjeet Sandhu | 2022-06-27 | Merge branch 'xms-ui-code-update' into 'master'
+f75ef1c | ssandhu | 2022-06-27 | dependency update
+5dbfa18 | Simeranjeet Sandhu | 2022-06-27 | Merge branch 'xms-ui-code-update' into 'master'
+167ad42 | ssandhu | 2022-06-27 | Updated yarn lockfile
+a61ef6b | Simeranjeet Sandhu | 2022-06-27 | Merge branch 'xms-ui-code-update' into 'master'
+83aeb9c | ssandhu | 2022-06-27 | Updated lodash dependency to latest
+1f66aa3 | Simeranjeet Sandhu | 2022-06-27 | Merge branch 'xms-ui-code-update' into 'master'
+ccae49b | ssandhu | 2022-06-27 | updated yarn lock
+dce27ce | Simeranjeet Sandhu | 2022-06-23 | Merge branch 'xms-ui-code-update' into 'master'
+1046413 | ssandhu | 2022-06-23 | Fortify issues resolved
+83bb9c5 | Simeranjeet Sandhu | 2022-06-23 | Merge branch 'xms-ui-code-update' into 'master'
+730f3fa | ssandhu | 2022-06-23 | Fixing Unit Test errors
+02a2a7c | Simeranjeet Sandhu | 2022-06-23 | Merge branch 'xms-ui-code-update' into 'master'
+013591d | ssandhu | 2022-06-23 | Updated package.json
+1233180 | Simeranjeet Sandhu | 2022-06-22 | Merge branch 'xms-ui-code-update' into 'master'
+ccbc583 | ssandhu | 2022-06-22 | re-generated yarn lockfile
+15e6dae | Simeranjeet Sandhu | 2022-06-22 | Merge branch 'xms-ui-code-update' into 'master'
+36c50d5 | ssandhu | 2022-06-22 | code udpated from github
+16506cc | Simeranjeet Sandhu | 2022-05-25 | Merge branch 'xms-ui-code-update' into 'master'
+1cc4458 | ssandhu | 2022-05-25 | code updated
+1d0dfe6 | Simeranjeet Sandhu | 2022-05-24 | Merge branch 'xms-ui-code-update' into 'master'
+643bb9a | ssandhu | 2022-05-24 | regenerated yarn.lock
+42d8233 | Simeranjeet Sandhu | 2022-05-24 | Merge branch 'xms-ui-code-update' into 'master'
+e249993 | ssandhu | 2022-05-24 | new yarn lockfile generated
+849f2df | Simeranjeet Sandhu | 2022-05-24 | Merge branch 'xms-ui-code-update' into 'master'
+2836c8c | ssandhu | 2022-05-24 | Added lint
+4903945 | Simeranjeet Sandhu | 2022-05-23 | Merge branch 'xms-ui-code-update' into 'master'
+b84b9d8 | ssandhu | 2022-05-23 | added lint
+9ed6e45 | Simeranjeet Sandhu | 2022-04-08 | Merge branch 'xms-ui-code-update' into 'master'
+45631bc | ssandhu | 2022-04-08 | re-generated yarn.lock
+d9043cb | Simeranjeet Sandhu | 2022-04-01 | Merge branch 'xms-ui-code-update' into 'master'
+171ff80 | ssandhu | 2022-04-01 | Updated readme
+c933d7b | Simeranjeet Sandhu | 2022-03-16 | Merge branch 'xms-ui-code-update' into 'master'
+b88f2e9 | ssandhu | 2022-03-16 | updated package.json
+1daad02 | Simeranjeet Sandhu | 2022-02-28 | Merge branch 'xms-ui-code-update' into 'master'
+23287a7 | ssandhu | 2022-02-28 | images updated from IronBank
+4702873 | Simeranjeet Sandhu | 2022-02-25 | Merge branch 'xms-ui-code-update' into 'master'
+601dd15 | ssandhu | 2022-02-25 | code update from openlxp github
+413b35e | Michael Son | 2022-01-19 | Update Dockerfile
+b3f051b | Michael Son | 2021-12-10 | Update Dockerfile
+aabe51b | Michael Son | 2021-11-03 | initial commit
+cdba1a4 | JDTobin | 2021-09-23 | Merge pull request #13 from OpenLXP/bugfix/api-bug-fix
+ce1dc4d | JDTobin | 2021-09-23 | Add REACT_APP_XIS_EXPERIENCES_API env var to README.  Also includes minor README fixes
+2625928 | rglasgow-deloitte | 2021-09-23 | Updates the code to use the correct env var
+e23eba3 | rglasgow-deloitte | 2021-09-22 | Updates the code to use the correct env var.
+a33ef50 | Randy Glasgow | 2021-09-22 | Update docker script (#12)
+ba73c52 | schittlur | 2021-09-21 | Documentation  (#11)
+86e1bf2 | jdiouf | 2021-08-17 | Chnaged XMS env variables to point to XMS backend instead of the XIS. Requires updated env.local file (#8)
+c61fa0b | schittlur | 2021-08-05 | Merge pull request #10 from OpenLXP/feature/custom-metadata-fields
+6742835 | Randy Glasgow | 2021-08-03 | Feature/search filter (#9)
+a779a33 | rglasgow-deloitte | 2021-08-03 | Removes unused code
+48fde15 | rglasgow-deloitte | 2021-08-03 | Updates Tests for CourseDataContainer.js and CourseContent.js
+560555d | rglasgow-deloitte | 2021-08-03 | Adds editing of metadata fields, add to supplemental data fields
+50393b1 | rglasgow-deloitte | 2021-07-30 | removes an ignored file
+dd99fa3 | rglasgow-deloitte | 2021-07-29 | Updates code to render search bar after the data has been loaded
+f2e9270 | rglasgow-deloitte | 2021-07-29 | Adds tests for search filter
+15c98f5 | rglasgow-deloitte | 2021-07-29 | removes console.log
+6cd3308 | rglasgow-deloitte | 2021-07-29 | Updates failing test code
+3a37d4c | rglasgow-deloitte | 2021-07-29 | Updates failing test code
+df6c134 | rglasgow-deloitte | 2021-07-29 | Updates courseRow to use only CourseCode
+8d0063b | rglasgow-deloitte | 2021-07-29 | Updates .gitignore
+e7347fe | rglasgow-deloitte | 2021-07-29 | Renamed a helper method to be more clear in its function.
+b020e41 | rglasgow-deloitte | 2021-07-29 | Adds filter search into course list.
+6975470 | rglasgow-deloitte | 2021-07-29 | Updates courseRows.js to show the course code instead of UID
+7258f47 | rglasgow-deloitte | 2021-07-29 | Adds ion-icons to package.json and into index.html for CDN
+5851721 | schittlur | 2021-07-29 | Merge pull request #7 from OpenLXP/feature/course-info-editing
+aea5635 | rglasgow-deloitte | 2021-07-28 | Removes stale code, fixes small bug with submit.
+a4d88a6 | rglasgow-deloitte | 2021-07-28 | Updates the code based on the git comments.
+d8101aa | rglasgow-deloitte | 2021-07-27 | Adds test for CourseDataContainer.test.js
+7bbb19d | rglasgow-deloitte | 2021-07-27 | Updates test code to include new obj structure
+7956165 | rglasgow-deloitte | 2021-07-27 | Updates the code to remove memory leaks
+d18b546 | rglasgow-deloitte | 2021-07-27 | Updates tests to reflect new data structure.
+84df966 | Jean Diouf | 2021-07-20 | yarn.lock
+0d57450 | Jean Diouf | 2021-07-20 | Added modal and state to track the different states of submitting metadata edits; added headless-ui
+cd2392a | Jean Diouf | 2021-07-20 | changes to handle new metadata format + connection to backend for editing records
+20a0086 | rglasgow-deloitte | 2021-07-14 | Updates the styling of the Course Data Editor
+8aa03c3 | rglasgow-deloitte | 2021-07-07 | Removes the tests for flattenDataObject.test.js
+93547e3 | rglasgow-deloitte | 2021-07-07 | Refactors common utilities into a single file. Adds tests for the utilities
+2a73d64 | rglasgow-deloitte | 2021-06-30 | Adds the ability to edit data from the XIS.
+c48df44 | rglasgow-deloitte | 2021-06-30 | Updates footer component to stick to the bottom of the screen
+9dbefec | jdiouf | 2021-05-19 | added coverage config (#6)
+cd6c18e | schittlur | 2021-05-19 | Xms UI rework (#5)
+b846a13 | jdiouf | 2021-04-29 | Xms Layout + Catalogs and Courses Api Calls (#4)
+6a1bd8d | Randy Glasgow | 2021-04-26 | Merge pull request #1 from OpenLXP/rglasgow-deloitte/setup
+56b1a88 | rglasgow-deloitte | 2021-04-21 | Adds aux resources and nginx.conf
+3d51ae1 | rglasgow-deloitte | 2021-04-21 | Refactored entire project to src dir.
+cd4ebcf | Swathi Chittlur | 2021-03-02 | creating react app
+cb1c18e | schittlur | 2021-03-02 | Initial commit

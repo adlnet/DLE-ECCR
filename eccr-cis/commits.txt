@@ -1,0 +1,5 @@
+c4317fe | JDTobin | 2025-07-28 | add to arch diagram
+e269b40 | JDTobin | 2025-07-28 | add initial diagrams to readme
+0f7002b | JDTobin | 2025-07-25 | initial setup
+b942d8f | Florian Tolk | 2025-07-03 | Add license
+8e32417 | Florian Tolk | 2025-05-20 | Initial commit

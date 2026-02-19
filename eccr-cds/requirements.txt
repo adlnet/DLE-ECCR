@@ -1,0 +1,49 @@
+bleach~=6.0.0
+
+boto3>=1.40, <1.41
+
+coverage~=7.12.0
+
+django-admin-interface>=0.28.3
+
+django-colorfield>=0.11.0
+
+django-cors-headers>=3.7.0, <3.8.0
+
+django-csp>=3.7, <3.8
+
+django-elasticsearch-dsl>=8.2, <9.0
+
+django-model-utils>=4.1.1, <4.2.0
+
+django-notifications-hq>=1.8.3, <2.0
+
+Django>=4.2, <5.0
+
+djangorestframework>=3.15.2, <3.16.0
+
+elasticsearch>=8.19, <8.20
+
+flake8>=3.8.4, <3.9.0
+
+gunicorn>=23.0.0, <23.1.0
+
+isort==5.11.5
+
+martor>=1.5.8, <1.6.0
+
+openlxp-P1-notification>=0.0.18, <2.0.0
+
+p1-auth>=0.1.6, <1.0.0
+
+Pillow>=11.3.0, <11.4.0
+
+psycopg2-binary >= 2.9, < 3.0
+
+PyJWT>=2.10.1
+
+python-slugify>=8.0.1
+
+setuptools==80.9.0
+
+text-unidecode>=1.3
