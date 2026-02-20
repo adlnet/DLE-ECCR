@@ -28,4 +28,4 @@ Because this was built for a PartyBus deployment, the following code must be run
 npm install
 ```
 
-*Note*: This project was designed to run in a specific DevSecOps environment, and may require additional changes before being viable in a new one.  It is also currently tied to CaSS for competency information. Development of this project was also not completed before this project was shut down.
+*Note*: This project was designed to run in a specific DevSecOps environment, and may require additional changes before being viable in a new one.  It is also currently reccomended to use to CaSS for competency information. Development of this project was also not completed before this project was shut down and will need some dev before it can be fully integrated.
